@@ -1,841 +1,829 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 1,
-        "pelicula": "El sur",
-        "ano": 1983,
-        "director": "Víctor Erice",
-        "genero": "Drama",
-        "dirección": "LR -111 km 10, Ezcaray",
-        "img": "sur-arboleda.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0200269,
-          42.3256776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 2,
-        "pelicula": "El sur",
-        "ano": 1983,
-        "director": "Víctor Erice",
-        "genero": "Drama",
-        "dirección": "Tr.ª Padre José García, 42, Ezcaray",
-        "img": "sur-casa.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.0201681497805106,
-          42.32622822368226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 3,
-        "pelicula": "El sur",
-        "ano": 1983,
-        "director": "Víctor Erice",
-        "genero": "Drama",
-        "dirección": "Vara de Rey 5, Logroño",
-        "img": "sur-hotel.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.444302,
-          42.4641256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 4,
-        "pelicula": "El sur",
-        "ano": 1983,
-        "director": "Víctor Erice",
-        "genero": "Drama",
-        "dirección": "C. Marqués de Murrieta, 76, Logroño",
-        "img": "sur-bene.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4613707783349503,
-          42.46423872402653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 5,
-        "pelicula": "Callle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "Calle Carnicerias",
-        "img": "calle-mayor-carniceria.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4463945142564913,
-          42.46694599802265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 6,
-        "pelicula": "Calle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "Plaza del Mercado, Logroño",
-        "img": "calle-mayor-mercado.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.445959868069579,
-          42.46664869622928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 7,
-        "pelicula": "Callle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "Plaza del Mercado, Logroño",
-        "img": "calle-mayor-portales.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4458523304147617,
-          42.466456553638636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 8,
-        "pelicula": "Callle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "calle-mayor-moderno.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.447572694638516,
-          42.46687068033932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 9,
-        "pelicula": "Callle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
-        "img": "calle-mayor-salon-circulo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4420627467112577,
-          42.465058407132275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 10,
-        "pelicula": "Callle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "Plaza San Bernabé",
-        "img": "calle-mayer-sb.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.44365597883583,
-          42.466902469304756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 11,
-        "pelicula": "Callle Mayor",
-        "ano": 1956,
-        "director": "Juan Antonio Bardem",
-        "genero": "Drama",
-        "dirección": "C. de Juan XXIII, 3, Logroño",
-        "img": "calle-mayor-circulo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.442028925437502,
-          42.46555612894151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 12,
-        "pelicula": "Pasos",
-        "ano": 2005,
-        "director": "Federico Luppi",
-        "genero": "Drama",
-        "dirección": "Tr.ª Cabo Noval, 1, Logroño",
-        "img": "pasos-puente.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.447373189366516,
-          42.47175015911504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 13,
-        "pelicula": "Pasos",
-        "ano": 2005,
-        "director": "Federico Luppi",
-        "genero": "Drama",
-        "dirección": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "pasos-modenro.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.447572694638516,
-          42.46687068033932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 14,
-        "pelicula": "Pasos",
-        "ano": 2005,
-        "director": "Federico Luppi",
-        "genero": "Drama",
-        "dirección": "Tr.ª de Laurel, 1, Logroño",
-        "img": "pasos-laurel.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4491092492400863,
-          42.46540502815572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 15,
-        "pelicula": "Pasos",
-        "ano": 2005,
-        "director": "Federico Luppi",
-        "genero": "Drama",
-        "dirección": "C. San Bartolomé, Logroño",
-        "img": "pasos-bartolome.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4436898459329592,
-          42.46685583862426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 16,
-        "pelicula": "La voz de su amo",
-        "ano": 2001,
-        "director": "Emilio Martínez-Lázaro",
-        "genero": "Thriller",
-        "dirección": "LR-435, 26322, La Rioja",
-        "img": "la-voz-del-amo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.870241918211533,
-          42.23086123046268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 17,
-        "pelicula": "Los muertos no se tocan, nene",
-        "ano": 2011,
-        "director": "José Luis García Sánchez",
-        "genero": "Comedia",
-        "dirección": "Ctra. Mendavía, 2, Logroño",
-        "img": "muertos-puente.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.443380160562441,
-          42.471178332336876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 18,
-        "pelicula": "Los muertos no se tocan, nene",
-        "ano": 2011,
-        "director": "José Luis García Sánchez",
-        "genero": "Comedia",
-        "dirección": "Ctra. Navarra, 0,Logroño",
-        "img": "muertos-cementerio.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4422235917810453,
-          42.472496604887404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 19,
-        "pelicula": "Los muertos no se tocan, nene",
-        "ano": 2011,
-        "director": "José Luis García Sánchez",
-        "genero": "Comedia",
-        "dirección": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "muertos-la-rioja.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.447572694638516,
-          42.46687068033932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 20,
-        "pelicula": "Los muertos no se tocan, nene",
-        "ano": 2011,
-        "director": "José Luis García Sánchez",
-        "genero": "Comedia",
-        "dirección": "C. Calvo Sotelo 8, Logroño",
-        "img": "muertos-calvo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4434527521500655,
-          42.46398382765962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 21,
-        "pelicula": "Los muertos no se tocan, nene",
-        "ano": 2011,
-        "director": "José Luis García Sánchez",
-        "genero": "Comedia",
-        "dirección": "Paseo del Espolón",
-        "img": "muertos-espartero.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4456628923534733,
-          42.464714942178915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 22,
-        "pelicula": "Los muertos no se tocan, nene",
-        "ano": 2011,
-        "director": "José Luis García Sánchez",
-        "genero": "Comedia",
-        "dirección": "Pl. del Mercado",
-        "img": "muertos-redonda.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4456763034134235,
-          42.466655965281284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 23,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "C. Cabo Noval, 2, Logroño",
-        "img": "oro-fino-fran-esp.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4471462328487252,
-          42.472106530811736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 24,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "Av. de la Playa, 4,Logroño",
-        "img": "oro-fino-hipica.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4555305102980536,
-          42.4719413739211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 25,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "Av. Santo Domingo de la Calzada, 34, Haro",
-        "img": "oro-fino-paternina.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.858747854561384,
-          42.56923885224132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 26,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "C. Sol de la Cabra, 26220 Ollauri",
-        "img": "oro-fino-bodega.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8345276893638305,
-          42.54189917757055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 27,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "Pl. de la Florida, 26230 Casalarreina",
-        "img": "oro-fino-casalarreina-2.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.912740677162395,
-          42.54749730815669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 28,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "C. Mayor, 8, 26212 Sajazarra",
-        "img": "oro-fino-sajazarra.PNG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.960236747115394,
-          42.58958034111907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 29,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "Pl. Condal, 7, 26359 Torremontalbo",
-        "img": "oro-fino-torremontalbo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.684856087600454,
-          42.500740982708244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 30,
-        "pelicula": "Oro fino",
-        "ano": 1989,
-        "director": "José Antonio de la Loma",
-        "genero": "Drama",
-        "dirección": "Logroño",
-        "img": "oro-fino-puente.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4469999885173572,
-          42.4708825648625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 31,
-        "pelicula": "The Way",
-        "ano": 2010,
-        "director": "Emilio Estévez",
-        "genero": "Drama",
-        "dirección": "C. Ruavieja, 47, Logroño",
-        "img": "the-way-ruavieja.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.444649105307647,
-          42.468376410955244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 32,
-        "pelicula": "The Way",
-        "ano": 2010,
-        "director": "Emilio Estévez",
-        "genero": "Drama",
-        "dirección": "C. Ruavieja, 47, Logroño",
-        "img": "the-way-comisaria.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4446749315933896,
-          42.46849584451865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 33,
-        "pelicula": "The Way",
-        "ano": 2010,
-        "director": "Emilio Estévez",
-        "genero": "Drama",
-        "dirección": "Pl. la Iglesia, 14, Briñas",
-        "img": "the-way-brinas-iglesia.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.831890628087174,
-          42.600845153620845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 34,
-        "pelicula": "The Way",
-        "ano": 2010,
-        "director": "Emilio Estévez",
-        "genero": "Drama",
-        "dirección": "C. Solana, Briñas",
-        "img": "the-way-brinas.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.8315289345311427,
-          42.60083911899015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 35,
-        "pelicula": "Proyecto Dos",
-        "ano": 2008,
-        "director": "Guillermo Fernández Groizard",
-        "genero": "Thriller",
-        "dirección": "Ctra. N-232, Agoncillo",
-        "img": "proyecto-dos.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.314992791298539,
-          42.45603950082103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 36,
-        "pelicula": "Las cartas de Málex",
-        "ano": 2013,
-        "director": "Carlos Reyes Lima",
-        "genero": "Suspense",
-        "dirección": "La Santa",
-        "img": "las-cartas-santa.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.351559999537707,
-          42.21262715380544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 37,
-        "pelicula": "Las cartas de Málex",
-        "ano": 2013,
-        "director": "Carlos Reyes Lima",
-        "genero": "Suspense",
-        "dirección": "Munilla",
-        "img": "cartas-biosfera.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.245478561318924,
-          42.22362514926315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 38,
-        "pelicula": "Un amor",
-        "ano": 2023,
-        "director": "Isabel Coixet",
-        "genero": "Drama",
-        "dirección": "8FFR+CR, 26190 Islallana",
-        "img": "un-amor-nalda.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5081819964231307,
-          42.32373899340723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 39,
-        "pelicula": "Un amor",
-        "ano": 2023,
-        "director": "Isabel Coixet",
-        "genero": "Drama",
-        "dirección": "C. Arrabal 6, Nalda",
-        "img": "un-amor-tienda.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.486595743016684,
-          42.333885753548394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 40,
-        "pelicula": "Un amor",
-        "ano": 2023,
-        "director": "Isabel Coixet",
-        "genero": "Drama",
-        "dirección": "Cam. Asfaltado de Nalda a Viguera",
-        "img": "un-amor-vecinos.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5081044326224613,
-          42.32305435631823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 41,
-        "pelicula": "Un amor",
-        "ano": 2023,
-        "director": "Isabel Coixet",
-        "genero": "Drama",
-        "dirección": "Nalda",
-        "img": "un-amor-islallana-pueblo.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.5153724461225098,
-          42.324076477335815
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 42,
-        "pelicula": "Un amor",
-        "ano": 2023,
-        "director": "Isabel Coixet",
-        "genero": "Drama",
-        "dirección": "Convento Franciscano de San Antonio",
-        "img": "un-amor-monasterio-nalda.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4941955404647995,
-          42.331263215643894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 43,
-        "pelicula": "Un amor",
-        "ano": 2023,
-        "director": "Isabel Coixet",
-        "genero": "Drama",
-        "dirección": "Nalda",
-        "img": "un-amor-crus-de-pena.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.504770782394107,
-          42.321606665384785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 44,
-        "pelicula": "La mujer de un juez",
-        "ano": 1984,
-        "director": "Francisco Lara Polop",
-        "genero": "Drama",
-        "dirección": "Logroño",
-        "img": "la.mujer-del-juez-calles.png"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4385379998124135,
-          42.46126991849982
-        ]
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0200269,
+                    42.3256776
+                ]
+            },
+            "properties": {
+                "pelicula": "El sur",
+                "locacion": "La Alborada",
+                "direccion": "LR -111 km 10, Ezcaray",
+                "img": "sur-arboleda.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0201681497805106,
+                    42.32622822368226
+                ]
+            },
+            "properties": {
+                "pelicula": "El sur",
+                "locacion": "Casa de la gaviota",
+                "direccion": "Tr.ª Padre José García, 42, Ezcaray",
+                "img": "sur-casa.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.444302,
+                    42.4641256
+                ]
+            },
+            "properties": {
+                "pelicula": "El sur",
+                "locacion": "Gran Hotel",
+                "direccion": "Vara de Rey 5, Logroño",
+                "img": "sur-hotel.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4613707783349503,
+                    42.46423872402653
+                ]
+            },
+            "properties": {
+                "pelicula": "El sur",
+                "locacion": "Edificio Benficencia",
+                "direccion": "C. Marqués de Murrieta, 76, Logroño",
+                "img": "sur-bene.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4463945142564913,
+                    42.46694599802265
+                ]
+            },
+            "properties": {
+                "pelicula": "Callle Mayor",
+                "locacion": "Calle Carnicerías",
+                "direccion": "Calle Carnicerias",
+                "img": "calle-mayor-carniceria.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.445959868069579,
+                    42.46664869622928
+                ]
+            },
+            "properties": {
+                "pelicula": "Calle Mayor",
+                "locacion": "Pl. del Mercado",
+                "direccion": "Plaza del Mercado, Logroño",
+                "img": "calle-mayor-mercado.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4458523304147617,
+                    42.466456553638636
+                ]
+            },
+            "properties": {
+                "pelicula": "Callle Mayor",
+                "locacion": "Calle Portales",
+                "direccion": "Plaza del Mercado, Logroño",
+                "img": "calle-mayor-portales.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.447572694638516,
+                    42.46687068033932
+                ]
+            },
+            "properties": {
+                "pelicula": "Callle Mayor",
+                "locacion": "Café Moderno",
+                "direccion": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+                "img": "calle-mayor-moderno.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4420627467112577,
+                    42.465058407132275
+                ]
+            },
+            "properties": {
+                "pelicula": "Callle Mayor",
+                "locacion": "Circulo Logroñés",
+                "direccion": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
+                "img": "calle-mayor-salon-circulo.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.44365597883583,
+                    42.466902469304756
+                ]
+            },
+            "properties": {
+                "pelicula": "Callle Mayor",
+                "locacion": "Pl. San Bernabé",
+                "direccion": "Plaza San Bernabé",
+                "img": "calle-mayer-sb.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.442028925437502,
+                    42.46555612894151
+                ]
+            },
+            "properties": {
+                "pelicula": "Callle Mayor",
+                "locacion": "Glorieta del Doctor Zubía",
+                "direccion": "C. de Juan XXIII, 3, Logroño",
+                "img": "calle-mayor-circulo.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.447373189366516,
+                    42.47175015911504
+                ]
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Puente de Hierro",
+                "direccion": "Tr.ª Cabo Noval, 1, Logroño",
+                "img": "pasos-puente.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.447572694638516,
+                    42.46687068033932
+                ]
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Café Moderno",
+                "direccion": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+                "img": "pasos-modenro.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4491092492400863,
+                    42.46540502815572
+                ]
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Calle Laurel",
+                "direccion": "Tr.ª de Laurel, 1, Logroño",
+                "img": "pasos-laurel.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4436898459329592,
+                    42.46685583862426
+                ]
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Pl. San Bartolomé",
+                "direccion": "C. San Bartolomé, Logroño",
+                "img": "pasos-bartolome.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Nájera",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Nalda",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Pasos",
+                "locacion": "Ollauri",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.870241918211533,
+                    42.23086123046268
+                ]
+            },
+            "properties": {
+                "pelicula": "La voz de su amo",
+                "locacion": "Monasterio de Valvanera",
+                "direccion": "LR-435, 26322, La Rioja",
+                "img": "la-voz-del-amo.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.443380160562441,
+                    42.471178332336876
+                ]
+            },
+            "properties": {
+                "pelicula": "Los muertos no se tocan, nene",
+                "locacion": "Puente de Piedra",
+                "direccion": "Ctra. Mendavía, 2, Logroño",
+                "img": "muertos-puente.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4422235917810453,
+                    42.472496604887404
+                ]
+            },
+            "properties": {
+                "pelicula": "Los muertos no se tocan, nene",
+                "locacion": "Cementerio de Logroño",
+                "direccion": "Ctra. Navarra, 0,Logroño",
+                "img": "muertos-cementerio.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.447572694638516,
+                    42.46687068033932
+                ]
+            },
+            "properties": {
+                "pelicula": "Los muertos no se tocan, nene",
+                "locacion": "Café Moderno",
+                "direccion": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+                "img": "muertos-la-rioja.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4434527521500655,
+                    42.46398382765962
+                ]
+            },
+            "properties": {
+                "pelicula": "Los muertos no se tocan, nene",
+                "locacion": "C. Calvo Sotelo 8",
+                "direccion": "C. Calvo Sotelo 8, Logroño",
+                "img": "muertos-calvo.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4456628923534733,
+                    42.464714942178915
+                ]
+            },
+            "properties": {
+                "pelicula": "Los muertos no se tocan, nene",
+                "locacion": "Pl. del Espolón",
+                "direccion": "Paseo del Espolón",
+                "img": "muertos-espartero.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4456763034134235,
+                    42.466655965281284
+                ]
+            },
+            "properties": {
+                "pelicula": "Los muertos no se tocan, nene",
+                "locacion": "Concatedral La  Redonda",
+                "direccion": "Pl. del Mercado",
+                "img": "muertos-redonda.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4471462328487252,
+                    42.472106530811736
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Franco Españolas",
+                "direccion": "C. Cabo Noval, 2, Logroño",
+                "img": "oro-fino-fran-esp.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Hotel Los Bracos",
+                "direccion": "Calle Bretón de los Herreros, 29, Logroño",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4555305102980536,
+                    42.4719413739211
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "La Hipica",
+                "direccion": "Av. de la Playa, 4,Logroño",
+                "img": "oro-fino-hipica.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.858747854561384,
+                    42.56923885224132
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Bodegas Paternina",
+                "direccion": "Av. Santo Domingo de la Calzada, 34, Haro",
+                "img": "oro-fino-paternina.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8345276893638305,
+                    42.54189917757055
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Bodegas Paternina",
+                "direccion": "C. Sol de la Cabra, 26220 Ollauri",
+                "img": "oro-fino-bodega.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.912740677162395,
+                    42.54749730815669
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "El palacio de los Pobes",
+                "direccion": "Pl. de la Florida, 26230 Casalarreina",
+                "img": "oro-fino-casalarreina-2.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Haro",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.960236747115394,
+                    42.58958034111907
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Castillo de Sajazarra",
+                "direccion": "C. Mayor, 8, 26212 Sajazarra",
+                "img": "oro-fino-sajazarra.PNG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.684856087600454,
+                    42.500740982708244
+                ]
+            },
+            "properties": {
+                "pelicula": "Oro fino",
+                "locacion": "Castillo Torrefuerte",
+                "direccion": "Pl. Condal, 7, 26359 Torremontalbo",
+                "img": "oro-fino-torremontalbo.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4469999885173572,
+                    42.4708825648625
+                ]
+            },
+            "properties": {
+                "pelicula": "The Way",
+                "locacion": "Puente de Hierro",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.444649105307647,
+                    42.468376410955244
+                ]
+            },
+            "properties": {
+                "pelicula": "The Way",
+                "locacion": "Calle RuaVieja",
+                "direccion": "C. Ruavieja, 47, Logroño",
+                "img": "the-way-ruavieja.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4446749315933896,
+                    42.46849584451865
+                ]
+            },
+            "properties": {
+                "pelicula": "The Way",
+                "locacion": "Comisaria Logroño",
+                "direccion": "C. Ruavieja, 47, Logroño",
+                "img": "the-way-comisaria.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.831890628087174,
+                    42.600845153620845
+                ]
+            },
+            "properties": {
+                "pelicula": "The Way",
+                "locacion": "Briñas",
+                "direccion": "Pl. la Iglesia, 14, Briñas",
+                "img": "the-way-brinas-iglesia.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8315289345311427,
+                    42.60083911899015
+                ]
+            },
+            "properties": {
+                "pelicula": "The Way",
+                "locacion": "Briñas",
+                "direccion": "C. Solana, Briñas",
+                "img": "the-way-brinas.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.314992791298539,
+                    42.45603950082103
+                ]
+            },
+            "properties": {
+                "pelicula": "Proyecto Dos",
+                "locacion": "Aeropuerto de Logroño-Agoncillo",
+                "direccion": "Ctra. N-232, Agoncillo",
+                "img": "proyecto-dos.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Las cartas de Málex",
+                "locacion": "Munilla",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.351559999537707,
+                    42.21262715380544
+                ]
+            },
+            "properties": {
+                "pelicula": "Las cartas de Málex",
+                "locacion": "La Santa",
+                "direccion": "",
+                "img": "las-cartas-santa.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3432359468897337,
+                    42.1819537644217
+                ]
+            },
+            "properties": {
+                "pelicula": "Las cartas de Málex",
+                "locacion": "Zarzosa",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.245478561318924,
+                    42.22362514926315
+                ]
+            },
+            "properties": {
+                "pelicula": "Las cartas de Málex",
+                "locacion": "Reserva de la Biósfera",
+                "direccion": "",
+                "img": "cartas-biosfera.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5081819964231307,
+                    42.32373899340723
+                ]
+            },
+            "properties": {
+                "pelicula": "Un amor",
+                "locacion": "Casa de Nat",
+                "direccion": "8FFR+CR, 26190 Islallana",
+                "img": "un-amor-nalda.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.486595743016684,
+                    42.333885753548394
+                ]
+            },
+            "properties": {
+                "pelicula": "Un amor",
+                "locacion": "Tienda de alimentos",
+                "direccion": "C. Arrabal 6, Nalda",
+                "img": "un-amor-tienda.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5081044326224613,
+                    42.32305435631823
+                ]
+            },
+            "properties": {
+                "pelicula": "Un amor",
+                "locacion": "Casa de vecinos",
+                "direccion": "Cam. Asfaltado de Nalda a Viguera",
+                "img": "un-amor-vecinos.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5153724461225098,
+                    42.324076477335815
+                ]
+            },
+            "properties": {
+                "pelicula": "Un amor",
+                "locacion": "Islallana",
+                "direccion": "",
+                "img": "un-amor-islallana-pueblo.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4941955404647995,
+                    42.331263215643894
+                ]
+            },
+            "properties": {
+                "pelicula": "Un amor",
+                "locacion": "Covento en ruinas",
+                "direccion": "Convento Franciscano de San Antonio",
+                "img": "un-amor-monasterio-nalda.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.504770782394107,
+                    42.321606665384785
+                ]
+            },
+            "properties": {
+                "pelicula": "Un amor",
+                "locacion": "Cruz Peña",
+                "direccion": "",
+                "img": "un-amor-crus-de-pena.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4385379998124135,
+                    42.46126991849982
+                ]
+            },
+            "properties": {
+                "pelicula": "La mujer de un juez",
+                "locacion": "Logroño",
+                "direccion": "",
+                "img": "la.mujer-del-juez-calles.png"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Un indiano en Moratilla",
+                "locacion": "Ventosa",
+                "direccion": "",
+                "img": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": {}
+            },
+            "properties": {
+                "pelicula": "Susana, ¿imbécil?",
+                "locacion": "Ezcaray",
+                "direccion": "",
+                "img": ""
+            }
+        }
+    ]
 }
