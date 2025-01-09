@@ -9,7 +9,10 @@
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
-        "direccion": "LR -111 km 10, Ezcaray",
+        "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "locacion": "La Alborada",
+        "dire": "LR -111 km 10, Ezcaray",
         "img": "sur-arboleda.png"
       },
       "geometry": {
@@ -28,7 +31,10 @@
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
-        "direccion": "Tr.ª Padre José García, 42, Ezcaray",
+        "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "locacion": "Casa de la gaviota",
+        "dire": "Tr.ª Padre José García, 42, Ezcaray",
         "img": "sur-casa.png"
       },
       "geometry": {
@@ -47,7 +53,10 @@
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
-        "direccion": "Vara de Rey 5, Logroño",
+        "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "locacion": "Gran Hotel",
+        "dire": "Vara de Rey 5, Logroño",
         "img": "sur-hotel.jpg"
       },
       "geometry": {
@@ -66,7 +75,10 @@
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
-        "direccion": "C. Marqués de Murrieta, 76, Logroño",
+        "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "locacion": "Edificio Benficencia",
+        "dire": "C. Marqués de Murrieta, 76, Logroño",
         "img": "sur-bene.png"
       },
       "geometry": {
@@ -85,7 +97,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "Calle Carnicerias",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Calle Carnicerías",
+        "dire": "Calle Carnicerias",
         "img": "calle-mayor-carniceria.png"
       },
       "geometry": {
@@ -104,7 +119,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "Plaza del Mercado, Logroño",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Pl. del Mercado",
+        "dire": "Plaza del Mercado, Logroño",
         "img": "calle-mayor-mercado.png"
       },
       "geometry": {
@@ -123,7 +141,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "Plaza del Mercado, Logroño",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Calle Portales",
+        "dire": "Plaza del Mercado, Logroño",
         "img": "calle-mayor-portales.png"
       },
       "geometry": {
@@ -142,7 +163,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Café Moderno",
+        "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
         "img": "calle-mayor-moderno.png"
       },
       "geometry": {
@@ -161,7 +185,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Circulo Logroñés",
+        "dire": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
         "img": "calle-mayor-salon-circulo.png"
       },
       "geometry": {
@@ -180,7 +207,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "Plaza San Bernabé",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Pl. San Bernabé",
+        "dire": "Plaza San Bernabé",
         "img": "calle-mayer-sb.png"
       },
       "geometry": {
@@ -199,7 +229,10 @@
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
-        "direccion": "C. de Juan XXIII, 3, Logroño",
+        "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "locacion": "Glorieta del Doctor Zubía",
+        "dire": "C. de Juan XXIII, 3, Logroño",
         "img": "calle-mayor-circulo.png"
       },
       "geometry": {
@@ -218,7 +251,10 @@
         "ano": 2005,
         "director": "Federico Luppi",
         "genero": "Drama",
-        "direccion": "Tr.ª Cabo Noval, 1, Logroño",
+        "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "locacion": "Puente de Hierro",
+        "dire": "Tr.ª Cabo Noval, 1, Logroño",
         "img": "pasos-puente.jpg"
       },
       "geometry": {
@@ -237,7 +273,10 @@
         "ano": 2005,
         "director": "Federico Luppi",
         "genero": "Drama",
-        "direccion": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+        "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "locacion": "Café Moderno",
+        "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
         "img": "pasos-modenro.jpg"
       },
       "geometry": {
@@ -256,7 +295,10 @@
         "ano": 2005,
         "director": "Federico Luppi",
         "genero": "Drama",
-        "direccion": "Tr.ª de Laurel, 1, Logroño",
+        "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "locacion": "Calle Laurel",
+        "dire": "Tr.ª de Laurel, 1, Logroño",
         "img": "pasos-laurel.jpg"
       },
       "geometry": {
@@ -275,7 +317,10 @@
         "ano": 2005,
         "director": "Federico Luppi",
         "genero": "Drama",
-        "direccion": "C. San Bartolomé, Logroño",
+        "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "locacion": "Pl. San Bartolomé",
+        "dire": "C. San Bartolomé, Logroño",
         "img": "pasos-bartolome.jpg"
       },
       "geometry": {
@@ -294,7 +339,10 @@
         "ano": 2001,
         "director": "Emilio Martínez-Lázaro",
         "genero": "Thriller",
-        "direccion": "LR-435, 26322, La Rioja",
+        "afiche": "https://pics.filmaffinity.com/la_voz_de_su_amo-591530204-large.jpg",
+        "sinopsis": "Bilbao, año 1980. En un ambiente dominado por la corrupción y el terrorismo, Charli, un treintañero taciturno, trabaja como chófer y hombre de confianza del señor Oliveira, un empresario de origen portugués que se dedica a negocios poco claros. Alarmado por una serie de amenazas y atentados, Oliveira decide confiar a Charli la protección de su hija Marta. A partir de ese momento, todo se complica: surge inesperadamente el amor, la violencia genera más violencia y, por si fuera poco, los amigos no son lo que parecen. (FILMAFFINITY)",
+        "locacion": "Monasterio de Valvanera",
+        "dire": "LR-435, 26322, La Rioja",
         "img": "la-voz-del-amo.png"
       },
       "geometry": {
@@ -313,7 +361,10 @@
         "ano": 2011,
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
-        "direccion": "Ctra. Mendavía, 2, Logroño",
+        "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "locacion": "Puente de Piedra",
+        "dire": "Ctra. Mendavía, 2, Logroño",
         "img": "muertos-puente.png"
       },
       "geometry": {
@@ -332,7 +383,10 @@
         "ano": 2011,
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
-        "direccion": "Ctra. Navarra, 0,Logroño",
+        "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "locacion": "Cementerio de Logroño",
+        "dire": "Ctra. Navarra, 0,Logroño",
         "img": "muertos-cementerio.png"
       },
       "geometry": {
@@ -351,7 +405,10 @@
         "ano": 2011,
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
-        "direccion": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+        "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "locacion": "Café Moderno",
+        "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
         "img": "muertos-la-rioja.png"
       },
       "geometry": {
@@ -370,7 +427,10 @@
         "ano": 2011,
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
-        "direccion": "C. Calvo Sotelo 8, Logroño",
+        "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "locacion": "C. Calvo Sotelo 8",
+        "dire": "C. Calvo Sotelo 8, Logroño",
         "img": "muertos-calvo.png"
       },
       "geometry": {
@@ -389,7 +449,10 @@
         "ano": 2011,
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
-        "direccion": "Paseo del Espolón",
+        "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "locacion": "Pl. del Espolón",
+        "dire": "Paseo del Espolón",
         "img": "muertos-espartero.png"
       },
       "geometry": {
@@ -408,7 +471,10 @@
         "ano": 2011,
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
-        "direccion": "Pl. del Mercado",
+        "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "locacion": "Concatedral La  Redonda",
+        "dire": "Pl. del Mercado",
         "img": "muertos-redonda.png"
       },
       "geometry": {
@@ -427,7 +493,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "C. Cabo Noval, 2, Logroño",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "Franco Españolas",
+        "dire": "C. Cabo Noval, 2, Logroño",
         "img": "oro-fino-fran-esp.png"
       },
       "geometry": {
@@ -446,7 +515,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "Av. de la Playa, 4,Logroño",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "La Hipica",
+        "dire": "Av. de la Playa, 4,Logroño",
         "img": "oro-fino-hipica.png"
       },
       "geometry": {
@@ -465,7 +537,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "Av. Santo Domingo de la Calzada, 34, Haro",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "Bodegas Paternina",
+        "dire": "Av. Santo Domingo de la Calzada, 34, Haro",
         "img": "oro-fino-paternina.png"
       },
       "geometry": {
@@ -484,7 +559,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "C. Sol de la Cabra, 26220 Ollauri",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "Bodegas Paternina",
+        "dire": "C. Sol de la Cabra, 26220 Ollauri",
         "img": "oro-fino-bodega.png"
       },
       "geometry": {
@@ -503,7 +581,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "Pl. de la Florida, 26230 Casalarreina",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "El palacio de los Pobes",
+        "dire": "Pl. de la Florida, 26230 Casalarreina",
         "img": "oro-fino-casalarreina-2.png"
       },
       "geometry": {
@@ -522,7 +603,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "C. Mayor, 8, 26212 Sajazarra",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "Castillo de Sajazarra",
+        "dire": "C. Mayor, 8, 26212 Sajazarra",
         "img": "oro-fino-sajazarra.PNG"
       },
       "geometry": {
@@ -541,7 +625,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "Pl. Condal, 7, 26359 Torremontalbo",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "Castillo Torrefuerte",
+        "dire": "Pl. Condal, 7, 26359 Torremontalbo",
         "img": "oro-fino-torremontalbo.png"
       },
       "geometry": {
@@ -560,7 +647,10 @@
         "ano": 1989,
         "director": "José Antonio de la Loma",
         "genero": "Drama",
-        "direccion": "Logroño",
+        "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "locacion": "Puente de Hierro",
+        "dire": "Logroño",
         "img": "oro-fino-puente.png"
       },
       "geometry": {
@@ -579,7 +669,10 @@
         "ano": 2010,
         "director": "Emilio Estévez",
         "genero": "Drama",
-        "direccion": "C. Ruavieja, 47, Logroño",
+        "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "locacion": "Calle RuaVieja",
+        "dire": "C. Ruavieja, 47, Logroño",
         "img": "the-way-ruavieja.png"
       },
       "geometry": {
@@ -598,7 +691,10 @@
         "ano": 2010,
         "director": "Emilio Estévez",
         "genero": "Drama",
-        "direccion": "C. Ruavieja, 47, Logroño",
+        "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "locacion": "Comisaria Logroño",
+        "dire": "C. Ruavieja, 47, Logroño",
         "img": "the-way-comisaria.png"
       },
       "geometry": {
@@ -617,7 +713,10 @@
         "ano": 2010,
         "director": "Emilio Estévez",
         "genero": "Drama",
-        "direccion": "Pl. la Iglesia, 14, Briñas",
+        "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "locacion": "Briñas",
+        "dire": "Pl. la Iglesia, 14, Briñas",
         "img": "the-way-brinas-iglesia.png"
       },
       "geometry": {
@@ -636,7 +735,10 @@
         "ano": 2010,
         "director": "Emilio Estévez",
         "genero": "Drama",
-        "direccion": "C. Solana, Briñas",
+        "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "locacion": "Briñas",
+        "dire": "C. Solana, Briñas",
         "img": "the-way-brinas.png"
       },
       "geometry": {
@@ -655,7 +757,10 @@
         "ano": 2008,
         "director": "Guillermo Fernández Groizard",
         "genero": "Thriller",
-        "direccion": "Ctra. N-232, Agoncillo",
+        "afiche": "https://pics.filmaffinity.com/proyecto_dos-628027005-large.jpg",
+        "sinopsis": "Diego (Collado), un científico que investiga los comportamientos genéticos y que mantiene una existencia feliz junto a su hijo y a su mujer (Jiménez), una traductora mitad inglesa mitad española. Aparte de problemas cotidianos como la hipoteca, lo único que perturba la tranquilidad de Diego son unos frecuentes \"déjà vues\" que sufre desde niño sin ningún motivo aparente. De la forma más casual descubrirá una noticia que le hará dudar de todo lo que le rodea e incluso de su propia identidad. (FILMAFFINITY)",
+        "locacion": "Aeropuerto de Logroño-Agoncillo",
+        "dire": "Ctra. N-232, Agoncillo",
         "img": "proyecto-dos.jpg"
       },
       "geometry": {
@@ -674,7 +779,10 @@
         "ano": 2013,
         "director": "Carlos Reyes Lima",
         "genero": "Suspense",
-        "direccion": "La Santa",
+        "afiche": "https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i",
+        "sinopsis": "Es una historia sobre el presente y el recuerdo. Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica. Unas cartas y una bobina de película esconden un hecho trágico.",
+        "locacion": "La Santa",
+        "dire": "La Santa",
         "img": "las-cartas-santa.png"
       },
       "geometry": {
@@ -693,7 +801,10 @@
         "ano": 2013,
         "director": "Carlos Reyes Lima",
         "genero": "Suspense",
-        "direccion": "Munilla",
+        "afiche": "https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i",
+        "sinopsis": "Es una historia sobre el presente y el recuerdo. Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica. Unas cartas y una bobina de película esconden un hecho trágico.",
+        "locacion": "Reserva de la Biósfera",
+        "dire": "Munilla",
         "img": "cartas-biosfera.jpg"
       },
       "geometry": {
@@ -712,7 +823,10 @@
         "ano": 2023,
         "director": "Isabel Coixet",
         "genero": "Drama",
-        "direccion": "8FFR+CR, 26190 Islallana",
+        "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "locacion": "Casa de Nat",
+        "dire": "8FFR+CR, 26190 Islallana",
         "img": "un-amor-nalda.png"
       },
       "geometry": {
@@ -731,7 +845,10 @@
         "ano": 2023,
         "director": "Isabel Coixet",
         "genero": "Drama",
-        "direccion": "C. Arrabal 6, Nalda",
+        "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "locacion": "Tienda de alimentos",
+        "dire": "C. Arrabal 6, Nalda",
         "img": "un-amor-tienda.png"
       },
       "geometry": {
@@ -750,7 +867,10 @@
         "ano": 2023,
         "director": "Isabel Coixet",
         "genero": "Drama",
-        "direccion": "Cam. Asfaltado de Nalda a Viguera",
+        "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "locacion": "Casa de vecinos",
+        "dire": "Cam. Asfaltado de Nalda a Viguera",
         "img": "un-amor-vecinos.png"
       },
       "geometry": {
@@ -769,7 +889,10 @@
         "ano": 2023,
         "director": "Isabel Coixet",
         "genero": "Drama",
-        "direccion": "Nalda",
+        "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "locacion": "Islallana",
+        "dire": "Nalda",
         "img": "un-amor-islallana-pueblo.png"
       },
       "geometry": {
@@ -788,7 +911,10 @@
         "ano": 2023,
         "director": "Isabel Coixet",
         "genero": "Drama",
-        "direccion": "Convento Franciscano de San Antonio",
+        "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "locacion": "Covento en ruinas",
+        "dire": "Convento Franciscano de San Antonio",
         "img": "un-amor-monasterio-nalda.png"
       },
       "geometry": {
@@ -807,7 +933,10 @@
         "ano": 2023,
         "director": "Isabel Coixet",
         "genero": "Drama",
-        "direccion": "Nalda",
+        "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "locacion": "Cruz Peña",
+        "dire": "Nalda",
         "img": "un-amor-crus-de-pena.png"
       },
       "geometry": {
@@ -826,7 +955,10 @@
         "ano": 1984,
         "director": "Francisco Lara Polop",
         "genero": "Drama",
-        "direccion": "Logroño",
+        "afiche": "https://pics.filmaffinity.com/la_mujer_del_juez-579667966-large.jpg",
+        "sinopsis": "Paz es la esposa de Miguel, un juez. Ambos acaban de llegar a Logroño, a cuya capital ha sido trasladado éste último. Mientras el legislador trabaja en los juzgados, Paz se aburre en casa. Además, su matrimonio ha caído en una rutina absoluta. Por ello, la todavía joven mujer comienza una relación amorosa con Alfredo, un muchacho de dieciséis años. Marcial, el vecino de la destrozada pareja, conoce los hechos y decide chantajear a la adúltera, obligándola a exhibirse para que él pueda contemplarla con sus prismáticos, mientras pasea desnuda frente a la ventana. (FILMAFFINITY)",
+        "locacion": "Logroño",
+        "dire": "Logroño",
         "img": "la.mujer-del-juez-calles.png"
       },
       "geometry": {
