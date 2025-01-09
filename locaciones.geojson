@@ -13,7 +13,7 @@
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
         "locacion": "La Alborada",
         "dire": "LR -111 km 10, Ezcaray",
-        "img": "sur-arboleda.png"
+        "img": "sur-arboleda.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +35,7 @@
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
         "locacion": "Casa de la gaviota",
         "dire": "Tr.ª Padre José García, 42, Ezcaray",
-        "img": "sur-casa.png"
+        "img": "sur-casa.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +79,7 @@
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
         "locacion": "Edificio Benficencia",
         "dire": "C. Marqués de Murrieta, 76, Logroño",
-        "img": "sur-bene.png"
+        "img": "sur-bene.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -101,7 +101,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Calle Carnicerías",
         "dire": "Calle Carnicerias",
-        "img": "calle-mayor-carniceria.png"
+        "img": "calle-mayor-carniceria.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -123,7 +123,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Pl. del Mercado",
         "dire": "Plaza del Mercado, Logroño",
-        "img": "calle-mayor-mercado.png"
+        "img": "calle-mayor-mercado.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Calle Portales",
         "dire": "Plaza del Mercado, Logroño",
-        "img": "calle-mayor-portales.png"
+        "img": "calle-mayor-portales.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Café Moderno",
         "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "calle-mayor-moderno.png"
+        "img": "calle-mayor-moderno.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +189,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Circulo Logroñés",
         "dire": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
-        "img": "calle-mayor-salon-circulo.png"
+        "img": "calle-mayor-salon-circulo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -211,7 +211,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Pl. San Bernabé",
         "dire": "Plaza San Bernabé",
-        "img": "calle-mayer-sb.png"
+        "img": "calle-mayer-sb.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -233,7 +233,7 @@
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
         "locacion": "Glorieta del Doctor Zubía",
         "dire": "C. de Juan XXIII, 3, Logroño",
-        "img": "calle-mayor-circulo.png"
+        "img": "calle-mayor-circulo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +343,7 @@
         "sinopsis": "Bilbao, año 1980. En un ambiente dominado por la corrupción y el terrorismo, Charli, un treintañero taciturno, trabaja como chófer y hombre de confianza del señor Oliveira, un empresario de origen portugués que se dedica a negocios poco claros. Alarmado por una serie de amenazas y atentados, Oliveira decide confiar a Charli la protección de su hija Marta. A partir de ese momento, todo se complica: surge inesperadamente el amor, la violencia genera más violencia y, por si fuera poco, los amigos no son lo que parecen. (FILMAFFINITY)",
         "locacion": "Monasterio de Valvanera",
         "dire": "LR-435, 26322, La Rioja",
-        "img": "la-voz-del-amo.png"
+        "img": "la-voz-del-amo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +365,7 @@
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
         "locacion": "Puente de Piedra",
         "dire": "Ctra. Mendavía, 2, Logroño",
-        "img": "muertos-puente.png"
+        "img": "muertos-puente.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +387,7 @@
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
         "locacion": "Cementerio de Logroño",
         "dire": "Ctra. Navarra, 0,Logroño",
-        "img": "muertos-cementerio.png"
+        "img": "muertos-cementerio.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -409,7 +409,7 @@
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
         "locacion": "Café Moderno",
         "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "muertos-la-rioja.png"
+        "img": "muertos-la-rioja.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +431,7 @@
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
         "locacion": "C. Calvo Sotelo 8",
         "dire": "C. Calvo Sotelo 8, Logroño",
-        "img": "muertos-calvo.png"
+        "img": "muertos-calvo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +453,7 @@
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
         "locacion": "Pl. del Espolón",
         "dire": "Paseo del Espolón",
-        "img": "muertos-espartero.png"
+        "img": "muertos-espartero.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -475,7 +475,7 @@
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
         "locacion": "Concatedral La  Redonda",
         "dire": "Pl. del Mercado",
-        "img": "muertos-redonda.png"
+        "img": "muertos-redonda.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -497,7 +497,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "Franco Españolas",
         "dire": "C. Cabo Noval, 2, Logroño",
-        "img": "oro-fino-fran-esp.png"
+        "img": "oro-fino-fran-esp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -519,7 +519,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "La Hipica",
         "dire": "Av. de la Playa, 4,Logroño",
-        "img": "oro-fino-hipica.png"
+        "img": "oro-fino-hipica.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -541,7 +541,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "Bodegas Paternina",
         "dire": "Av. Santo Domingo de la Calzada, 34, Haro",
-        "img": "oro-fino-paternina.png"
+        "img": "oro-fino-paternina.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -563,7 +563,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "Bodegas Paternina",
         "dire": "C. Sol de la Cabra, 26220 Ollauri",
-        "img": "oro-fino-bodega.png"
+        "img": "oro-fino-bodega.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +585,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "El palacio de los Pobes",
         "dire": "Pl. de la Florida, 26230 Casalarreina",
-        "img": "oro-fino-casalarreina-2.png"
+        "img": "oro-fino-casalarreina-2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +607,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "Castillo de Sajazarra",
         "dire": "C. Mayor, 8, 26212 Sajazarra",
-        "img": "oro-fino-sajazarra.PNG"
+        "img": "oro-fino-sajazarra.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +629,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "Castillo Torrefuerte",
         "dire": "Pl. Condal, 7, 26359 Torremontalbo",
-        "img": "oro-fino-torremontalbo.png"
+        "img": "oro-fino-torremontalbo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +651,7 @@
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
         "locacion": "Puente de Hierro",
         "dire": "Logroño",
-        "img": "oro-fino-puente.png"
+        "img": "oro-fino-puente.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -673,7 +673,7 @@
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
         "locacion": "Calle RuaVieja",
         "dire": "C. Ruavieja, 47, Logroño",
-        "img": "the-way-ruavieja.png"
+        "img": "the-way-ruavieja.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +695,7 @@
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
         "locacion": "Comisaria Logroño",
         "dire": "C. Ruavieja, 47, Logroño",
-        "img": "the-way-comisaria.png"
+        "img": "the-way-comisaria.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -717,7 +717,7 @@
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
         "locacion": "Briñas",
         "dire": "Pl. la Iglesia, 14, Briñas",
-        "img": "the-way-brinas-iglesia.png"
+        "img": "the-way-brinas-iglesia.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +739,7 @@
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
         "locacion": "Briñas",
         "dire": "C. Solana, Briñas",
-        "img": "the-way-brinas.png"
+        "img": "the-way-brinas.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -783,7 +783,7 @@
         "sinopsis": "Es una historia sobre el presente y el recuerdo. Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica. Unas cartas y una bobina de película esconden un hecho trágico.",
         "locacion": "La Santa",
         "dire": "La Santa",
-        "img": "las-cartas-santa.png"
+        "img": "las-cartas-santa.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +827,7 @@
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
         "locacion": "Casa de Nat",
         "dire": "8FFR+CR, 26190 Islallana",
-        "img": "un-amor-nalda.png"
+        "img": "un-amor-nalda.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -849,7 +849,7 @@
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
         "locacion": "Tienda de alimentos",
         "dire": "C. Arrabal 6, Nalda",
-        "img": "un-amor-tienda.png"
+        "img": "un-amor-tienda.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -871,7 +871,7 @@
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
         "locacion": "Casa de vecinos",
         "dire": "Cam. Asfaltado de Nalda a Viguera",
-        "img": "un-amor-vecinos.png"
+        "img": "un-amor-vecinos.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -893,7 +893,7 @@
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
         "locacion": "Islallana",
         "dire": "Nalda",
-        "img": "un-amor-islallana-pueblo.png"
+        "img": "un-amor-islallana-pueblo.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +915,7 @@
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
         "locacion": "Covento en ruinas",
         "dire": "Convento Franciscano de San Antonio",
-        "img": "un-amor-monasterio-nalda.png"
+        "img": "un-amor-monasterio-nalda.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -937,7 +937,7 @@
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
         "locacion": "Cruz Peña",
         "dire": "Nalda",
-        "img": "un-amor-crus-de-pena.png"
+        "img": "un-amor-crus-de-pena.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -959,7 +959,7 @@
         "sinopsis": "Paz es la esposa de Miguel, un juez. Ambos acaban de llegar a Logroño, a cuya capital ha sido trasladado éste último. Mientras el legislador trabaja en los juzgados, Paz se aburre en casa. Además, su matrimonio ha caído en una rutina absoluta. Por ello, la todavía joven mujer comienza una relación amorosa con Alfredo, un muchacho de dieciséis años. Marcial, el vecino de la destrozada pareja, conoce los hechos y decide chantajear a la adúltera, obligándola a exhibirse para que él pueda contemplarla con sus prismáticos, mientras pasea desnuda frente a la ventana. (FILMAFFINITY)",
         "locacion": "Logroño",
         "dire": "Logroño",
-        "img": "la.mujer-del-juez-calles.png"
+        "img": "la.mujer-del-juez-calles.jpg"
       },
       "geometry": {
         "type": "Point",
