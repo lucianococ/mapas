@@ -1,1 +1,841 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":1,"pelicula":"El sur","ano":1983,"director":"Víctor Erice","genero":"Drama","sinopsis":"“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/el_sur-703148256-large.jpg","locación":"LR-111"},"geometry":{"type":"Point","coordinates":[-3.0200269,42.3256776]}},{"type":"Feature","properties":{"id":2,"pelicula":"El sur","ano":1983,"director":"Víctor Erice","genero":"Drama","sinopsis":"“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/el_sur-703148256-large.jpg","locación":"Casa de la gaviota"},"geometry":{"type":"Point","coordinates":[-3.020273,42.3256639]}},{"type":"Feature","properties":{"id":3,"pelicula":"El sur","ano":1983,"director":"Víctor Erice","genero":"Drama","sinopsis":"“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/el_sur-703148256-large.jpg","locación":"Gran Hotel"},"geometry":{"type":"Point","coordinates":[-2.444302,42.4641256]},"id":2},{"type":"Feature","properties":{"id":4,"pelicula":"El sur","ano":1983,"director":"Víctor Erice","genero":"Drama","sinopsis":"“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/el_sur-703148256-large.jpg","locación":"Edificio Benficencia"},"geometry":{"type":"Point","coordinates":[-2.4613707783349503,42.46423872402653]},"id":3},{"type":"Feature","properties":{"id":5,"pelicula":"Calle mayor","ano":1956,"director":"Juan Antonio Bardem","genero":"Drama","sinopsis":"Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg","locación":"Círculo Logroñés"},"geometry":{"type":"Point","coordinates":[-2.44206742739709,42.465016847835216]},"id":4},{"type":"Feature","properties":{"id":6,"pelicula":"Calle mayor","ano":1956,"director":"Juan Antonio Bardem","genero":"Drama","sinopsis":"Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg","locación":"Portales"},"geometry":{"type":"Point","coordinates":[-2.4458523304147617,42.466456553638636]}},{"type":"Feature","properties":{"id":7,"pelicula":"Calle mayor","ano":1956,"director":"Juan Antonio Bardem","genero":"Drama","sinopsis":"Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg","locación":"Café Moderno"},"geometry":{"type":"Point","coordinates":[-2.447572694638516,42.46687068033932]}},{"type":"Feature","properties":{"id":8,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Puente de Hierro"},"geometry":{"type":"Point","coordinates":[-2.447373189366516,42.47175015911504]},"id":7},{"type":"Feature","properties":{"id":9,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Café Moderno"},"geometry":{"type":"Point","coordinates":[-2.447572694638516,42.46687068033932]}},{"type":"Feature","properties":{"id":10,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Calle Laurel"},"geometry":{"type":"Point","coordinates":[-2.4491092492400863,42.46540502815572]},"id":9},{"type":"Feature","properties":{"id":11,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Pl. San Bartolomé"},"geometry":{"type":"Point","coordinates":[-2.4436898459329592,42.46685583862426]}},{"type":"Feature","properties":{"id":12,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Nájera"},"geometry":{"type":"Point","coordinates":[-2.7339510065724393,42.41707009066072]}},{"type":"Feature","properties":{"id":13,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Nalda"},"geometry":{"type":"Point","coordinates":[-2.488440105477995,42.3353096632078]}},{"type":"Feature","properties":{"id":14,"pelicula":"Pasos","ano":2005,"director":"Federico Luppi","genero":"Drama","sinopsis":"La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/pasos-667988213-large.jpg","locación":"Ollauri"},"geometry":{"type":"Point","coordinates":[-2.833833026193273,42.542141025855635]}},{"type":"Feature","properties":{"id":15,"pelicula":"La voz de su amo","ano":2001,"director":"Emilio Martínez-Lázaro","genero":"Thriller","sinopsis":"Bilbao, año 1980. En un ambiente dominado por la corrupción y el terrorismo, Charli, un treintañero taciturno, trabaja como chófer y hombre de confianza del señor Oliveira, un empresario de origen portugués que se dedica a negocios poco claros. Alarmado por una serie de amenazas y atentados, Oliveira decide confiar a Charli la protección de su hija Marta. A partir de ese momento, todo se complica: surge inesperadamente el amor, la violencia genera más violencia y, por si fuera poco, los amigos no son lo que parecen. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/la_voz_de_su_amo-591530204-large.jpg","locación":"Monasterio de Valvanera"},"geometry":{"type":"Point","coordinates":[-2.870241918211533,42.23086123046268]}},{"type":"Feature","properties":{"id":16,"pelicula":"Los muertos no se tocan, nene","ano":2011,"director":"José Luis García Sánchez","genero":"Comedia","sinopsis":"Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg","locación":"Puente de Piedra"},"geometry":{"type":"Point","coordinates":[-2.443380160562441,42.471178332336876]}},{"type":"Feature","properties":{"id":17,"pelicula":"Los muertos no se tocan, nene","ano":2011,"director":"José Luis García Sánchez","genero":"Comedia","sinopsis":"Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg","locación":"el cementerio municipal"},"geometry":{"type":"Point","coordinates":[-2.4422235917810453,42.472496604887404]}},{"type":"Feature","properties":{"id":18,"pelicula":"Los muertos no se tocan, nene","ano":2011,"director":"José Luis García Sánchez","genero":"Comedia","sinopsis":"Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg","locación":"Café Moderno"},"geometry":{"type":"Point","coordinates":[-2.447572694638516,42.46687068033932]}},{"type":"Feature","properties":{"id":19,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Franco Españolas"},"geometry":{"type":"Point","coordinates":[-2.4471462328487252,42.472106530811736]},"id":18},{"type":"Feature","properties":{"id":20,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Hotel Los Bracos"},"geometry":{"type":"Point","coordinates":[-2.44970727954621,42.46531650404808]},"id":19},{"type":"Feature","properties":{"id":21,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"La Hipica"},"geometry":{"type":"Point","coordinates":[-2.4555305102980536,42.4719413739211]}},{"type":"Feature","properties":{"id":22,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Bodegas Paternina"},"geometry":{"type":"Point","coordinates":[-2.860865560526986,42.57031918052942]}},{"type":"Feature","properties":{"id":23,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Bodegas Paternina"},"geometry":{"type":"Point","coordinates":[-2.8345276893638305,42.54189917757055]}},{"type":"Feature","properties":{"id":24,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Casalarreina"},"geometry":{"type":"Point","coordinates":[-2.9104602831165827,42.54818921030951]}},{"type":"Feature","properties":{"id":25,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Haro"},"geometry":{"type":"Point","coordinates":[-2.8513073688832846,42.5764354103334]}},{"type":"Feature","properties":{"id":26,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Sajazarra"},"geometry":{"type":"Point","coordinates":[-2.9608390014794947,42.58885035921526]}},{"type":"Feature","properties":{"id":27,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"San Asensio"},"geometry":{"type":"Point","coordinates":[-2.7495653747801443,42.499443970369384]}},{"type":"Feature","properties":{"id":28,"pelicula":"Oro fino","ano":1989,"director":"José Antonio de la Loma","genero":"Drama","sinopsis":"La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/oro_fino-263134016-large.jpg","locación":"Torremontalbo"},"geometry":{"type":"Point","coordinates":[-2.6856433235716723,42.501390166762775]}},{"type":"Feature","properties":{"id":29,"pelicula":"The way","ano":2010,"director":"Emilio Estévez","genero":"Drama","sinopsis":"Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/the_way-245296584-large.jpg","locación":"Haro"},"geometry":{"type":"Point","coordinates":[-2.8467368850568238,42.57371759600172]}},{"type":"Feature","properties":{"id":30,"pelicula":"The way","ano":2010,"director":"Emilio Estévez","genero":"Drama","sinopsis":"Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/the_way-245296584-large.jpg","locación":"Rua Vieja"},"geometry":{"type":"Point","coordinates":[-2.444649105307647,42.468376410955244]}},{"type":"Feature","properties":{"id":31,"pelicula":"The Way","ano":2010,"director":"Emilio Estévez","genero":"Drama","sinopsis":"Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/the_way-245296584-large.jpg","locación":"Briñas"},"geometry":{"type":"Point","coordinates":[-2.831890628087174,42.600845153620845]}},{"type":"Feature","properties":{"id":32,"pelicula":"Proyecto Dos","ano":2008,"director":"Guillermo Fernández Groizard","genero":"Thriller","sinopsis":"Diego (Collado), un científico que investiga los comportamientos genéticos y que mantiene una existencia feliz junto a su hijo y a su mujer (Jiménez), una traductora mitad inglesa mitad española. Aparte de problemas cotidianos como la hipoteca, lo único que perturba la tranquilidad de Diego son unos frecuentes \"déjà vues\" que sufre desde niño sin ningún motivo aparente. De la forma más casual descubrirá una noticia que le hará dudar de todo lo que le rodea e incluso de su propia identidad. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/proyecto_dos-628027005-large.jpg","locación":"Aeropuerto Agoncillo"},"geometry":{"type":"Point","coordinates":[-2.314992791298539,42.45603950082103]}},{"type":"Feature","properties":{"id":33,"pelicula":"Las cartas de Málex","ano":2013,"director":"Carlos Reyes Lima","genero":"Suspense","sinopsis":"","img":"https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i","locación":"Munilla"},"geometry":{"type":"Point","coordinates":[-2.2954320746781494,42.18851692949581]}},{"type":"Feature","properties":{"id":34,"pelicula":"Las cartas de Málex","ano":2013,"director":"Carlos Reyes Lima","genero":"Suspense","sinopsis":"","img":"https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i","locación":"La Santa"},"geometry":{"type":"Point","coordinates":[-2.351559999537707,42.21262715380544]}},{"type":"Feature","properties":{"id":35,"pelicula":"Las cartas de Málex","ano":2013,"director":"Carlos Reyes Lima","genero":"Suspense","sinopsis":"","img":"https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i","locación":"Zarzosa"},"geometry":{"type":"Point","coordinates":[-2.342372275637354,42.18169538108045]}},{"type":"Feature","properties":{"id":36,"pelicula":"Las cartas de Málex","ano":2013,"director":"Carlos Reyes Lima","genero":"Suspense","sinopsis":"","img":"https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i","locación":"Hayedo de Santiago"},"geometry":{"type":"Point","coordinates":[-2.3698704607279693,42.16412893900377]}},{"type":"Feature","properties":{"id":37,"pelicula":"Un amor","ano":2023,"director":"Isabel Coixet","genero":"Drama","sinopsis":"Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/un_amor-986488292-large.jpg","locación":"Nalda"},"geometry":{"type":"Point","coordinates":[-2.487373419167544,42.33414641750922]}},{"type":"Feature","properties":{"id":38,"pelicula":"Un amor","ano":2023,"director":"Isabel Coixet","genero":"Drama","sinopsis":"Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/un_amor-986488292-large.jpg","locación":"Viguera"},"geometry":{"type":"Point","coordinates":[-2.5336300894570556,42.30870807465077]}},{"type":"Feature","properties":{"id":39,"pelicula":"Un amor","ano":2023,"director":"Isabel Coixet","genero":"Drama","sinopsis":"Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/un_amor-986488292-large.jpg","locación":"Islallana"},"geometry":{"type":"Point","coordinates":[-2.515060123835924,42.32414837419089]}},{"type":"Feature","properties":{"id":40,"pelicula":"Un amor","ano":2023,"director":"Isabel Coixet","genero":"Drama","sinopsis":"Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/un_amor-986488292-large.jpg","locación":"Ribafrecha"},"geometry":{"type":"Point","coordinates":[-2.3883551064029653,42.35661376940394]}},{"type":"Feature","properties":{"id":41,"pelicula":"Un amor","ano":2023,"director":"Isabel Coixet","genero":"Drama","sinopsis":"Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/un_amor-986488292-large.jpg","locación":"Villalobar"},"geometry":{"type":"Point","coordinates":[-2.963955335474126,42.491039438764965]}},{"type":"Feature","properties":{"id":42,"pelicula":"La mujer de un juez","ano":1984,"director":"Francisco Lara Polop","genero":"Drama","sinopsis":"Paz es la esposa de Miguel, un juez. Ambos acaban de llegar a Logroño, a cuya capital ha sido trasladado éste último. Mientras el legislador trabaja en los juzgados, Paz se aburre en casa. Además, su matrimonio ha caído en una rutina absoluta. Por ello, la todavía joven mujer comienza una relación amorosa con Alfredo, un muchacho de dieciséis años. Marcial, el vecino de la destrozada pareja, conoce los hechos y decide chantajear a la adúltera, obligándola a exhibirse para que él pueda contemplarla con sus prismáticos, mientras pasea desnuda frente a la ventana. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/la_mujer_del_juez-579667966-large.jpg","locación":"Logroño"},"geometry":{"type":"Point","coordinates":[-2.4385379998124135,42.46126991849982]},"id":41},{"type":"Feature","properties":{"id":43,"pelicula":"Un indiano en Moratilla","ano":1958,"director":"León Klimovsky","genero":"Comedia","sinopsis":"El hijo de un emigrante español a México vuelve a España con el propósito de encontrar en el pueblo algún familiar, pues con el dinero que gana con un trozo de tierra y que heredó de su padre saca petróleo y quiere realizar el sueño de aquel que no es otro que arreglar su pueblo de Moratilla. Y como familia no tiene, entre el Alcalde, el médico y el maestro, le preparan la familia ideal. (FILMAFFINITY)","img":"https://pics.filmaffinity.com/un_indiano_en_moratilla_aka_dos_mexicanos_en_aragon-544945329-large.jpg","locación":"Ventosa"},"geometry":{"type":"Point","coordinates":[-2.6250625627784268,42.403666419078895]}},{"type":"Feature","properties":{"id":44,"pelicula":"Susana, ¿imbécil?","ano":2017,"director":"Alberto Díez Guerrero, Asunción Ibáñez","genero":"Drama","sinopsis":"Esta película trata la violencia de género, más en concreto, se presenta a una mujer que es dueña de una compañía y se casa con un homólogo que acaba maltratándola. Este personaje lleva una doble vida en la que se compaginan su homosexualidad y el maltrato, ya que humilla siempre que puede a su esposa.","img":"https://es.web.img3.acsta.net/c_310_420/pictures/17/06/13/09/40/583930.jpg","locación":"Ezcaray"},"geometry":{"type":"Point","coordinates":[-3.01328766238962,42.32612943306259]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "pelicula": "El sur",
+        "ano": 1983,
+        "director": "Víctor Erice",
+        "genero": "Drama",
+        "dirección": "LR -111 km 10, Ezcaray",
+        "img": "sur-arboleda.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0200269,
+          42.3256776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "pelicula": "El sur",
+        "ano": 1983,
+        "director": "Víctor Erice",
+        "genero": "Drama",
+        "dirección": "Tr.ª Padre José García, 42, Ezcaray",
+        "img": "sur-casa.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0201681497805106,
+          42.32622822368226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "pelicula": "El sur",
+        "ano": 1983,
+        "director": "Víctor Erice",
+        "genero": "Drama",
+        "dirección": "Vara de Rey 5, Logroño",
+        "img": "sur-hotel.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.444302,
+          42.4641256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "pelicula": "El sur",
+        "ano": 1983,
+        "director": "Víctor Erice",
+        "genero": "Drama",
+        "dirección": "C. Marqués de Murrieta, 76, Logroño",
+        "img": "sur-bene.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4613707783349503,
+          42.46423872402653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "pelicula": "Callle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "Calle Carnicerias",
+        "img": "calle-mayor-carniceria.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4463945142564913,
+          42.46694599802265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "pelicula": "Calle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "Plaza del Mercado, Logroño",
+        "img": "calle-mayor-mercado.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.445959868069579,
+          42.46664869622928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "pelicula": "Callle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "Plaza del Mercado, Logroño",
+        "img": "calle-mayor-portales.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4458523304147617,
+          42.466456553638636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "pelicula": "Callle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+        "img": "calle-mayor-moderno.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.447572694638516,
+          42.46687068033932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "pelicula": "Callle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
+        "img": "calle-mayor-salon-circulo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4420627467112577,
+          42.465058407132275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "pelicula": "Callle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "Plaza San Bernabé",
+        "img": "calle-mayer-sb.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.44365597883583,
+          42.466902469304756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "pelicula": "Callle Mayor",
+        "ano": 1956,
+        "director": "Juan Antonio Bardem",
+        "genero": "Drama",
+        "dirección": "C. de Juan XXIII, 3, Logroño",
+        "img": "calle-mayor-circulo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.442028925437502,
+          42.46555612894151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "pelicula": "Pasos",
+        "ano": 2005,
+        "director": "Federico Luppi",
+        "genero": "Drama",
+        "dirección": "Tr.ª Cabo Noval, 1, Logroño",
+        "img": "pasos-puente.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.447373189366516,
+          42.47175015911504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "pelicula": "Pasos",
+        "ano": 2005,
+        "director": "Federico Luppi",
+        "genero": "Drama",
+        "dirección": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+        "img": "pasos-modenro.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.447572694638516,
+          42.46687068033932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "pelicula": "Pasos",
+        "ano": 2005,
+        "director": "Federico Luppi",
+        "genero": "Drama",
+        "dirección": "Tr.ª de Laurel, 1, Logroño",
+        "img": "pasos-laurel.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4491092492400863,
+          42.46540502815572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "pelicula": "Pasos",
+        "ano": 2005,
+        "director": "Federico Luppi",
+        "genero": "Drama",
+        "dirección": "C. San Bartolomé, Logroño",
+        "img": "pasos-bartolome.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4436898459329592,
+          42.46685583862426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "pelicula": "La voz de su amo",
+        "ano": 2001,
+        "director": "Emilio Martínez-Lázaro",
+        "genero": "Thriller",
+        "dirección": "LR-435, 26322, La Rioja",
+        "img": "la-voz-del-amo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.870241918211533,
+          42.23086123046268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "pelicula": "Los muertos no se tocan, nene",
+        "ano": 2011,
+        "director": "José Luis García Sánchez",
+        "genero": "Comedia",
+        "dirección": "Ctra. Mendavía, 2, Logroño",
+        "img": "muertos-puente.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.443380160562441,
+          42.471178332336876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "pelicula": "Los muertos no se tocan, nene",
+        "ano": 2011,
+        "director": "José Luis García Sánchez",
+        "genero": "Comedia",
+        "dirección": "Ctra. Navarra, 0,Logroño",
+        "img": "muertos-cementerio.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4422235917810453,
+          42.472496604887404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "pelicula": "Los muertos no se tocan, nene",
+        "ano": 2011,
+        "director": "José Luis García Sánchez",
+        "genero": "Comedia",
+        "dirección": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
+        "img": "muertos-la-rioja.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.447572694638516,
+          42.46687068033932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "pelicula": "Los muertos no se tocan, nene",
+        "ano": 2011,
+        "director": "José Luis García Sánchez",
+        "genero": "Comedia",
+        "dirección": "C. Calvo Sotelo 8, Logroño",
+        "img": "muertos-calvo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4434527521500655,
+          42.46398382765962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "pelicula": "Los muertos no se tocan, nene",
+        "ano": 2011,
+        "director": "José Luis García Sánchez",
+        "genero": "Comedia",
+        "dirección": "Paseo del Espolón",
+        "img": "muertos-espartero.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4456628923534733,
+          42.464714942178915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "pelicula": "Los muertos no se tocan, nene",
+        "ano": 2011,
+        "director": "José Luis García Sánchez",
+        "genero": "Comedia",
+        "dirección": "Pl. del Mercado",
+        "img": "muertos-redonda.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4456763034134235,
+          42.466655965281284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "C. Cabo Noval, 2, Logroño",
+        "img": "oro-fino-fran-esp.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4471462328487252,
+          42.472106530811736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "Av. de la Playa, 4,Logroño",
+        "img": "oro-fino-hipica.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4555305102980536,
+          42.4719413739211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "Av. Santo Domingo de la Calzada, 34, Haro",
+        "img": "oro-fino-paternina.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.858747854561384,
+          42.56923885224132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "C. Sol de la Cabra, 26220 Ollauri",
+        "img": "oro-fino-bodega.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8345276893638305,
+          42.54189917757055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "Pl. de la Florida, 26230 Casalarreina",
+        "img": "oro-fino-casalarreina-2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.912740677162395,
+          42.54749730815669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "C. Mayor, 8, 26212 Sajazarra",
+        "img": "oro-fino-sajazarra.PNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.960236747115394,
+          42.58958034111907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "Pl. Condal, 7, 26359 Torremontalbo",
+        "img": "oro-fino-torremontalbo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.684856087600454,
+          42.500740982708244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "pelicula": "Oro fino",
+        "ano": 1989,
+        "director": "José Antonio de la Loma",
+        "genero": "Drama",
+        "dirección": "Logroño",
+        "img": "oro-fino-puente.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4469999885173572,
+          42.4708825648625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "pelicula": "The Way",
+        "ano": 2010,
+        "director": "Emilio Estévez",
+        "genero": "Drama",
+        "dirección": "C. Ruavieja, 47, Logroño",
+        "img": "the-way-ruavieja.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.444649105307647,
+          42.468376410955244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "pelicula": "The Way",
+        "ano": 2010,
+        "director": "Emilio Estévez",
+        "genero": "Drama",
+        "dirección": "C. Ruavieja, 47, Logroño",
+        "img": "the-way-comisaria.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4446749315933896,
+          42.46849584451865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "pelicula": "The Way",
+        "ano": 2010,
+        "director": "Emilio Estévez",
+        "genero": "Drama",
+        "dirección": "Pl. la Iglesia, 14, Briñas",
+        "img": "the-way-brinas-iglesia.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.831890628087174,
+          42.600845153620845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "pelicula": "The Way",
+        "ano": 2010,
+        "director": "Emilio Estévez",
+        "genero": "Drama",
+        "dirección": "C. Solana, Briñas",
+        "img": "the-way-brinas.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8315289345311427,
+          42.60083911899015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "pelicula": "Proyecto Dos",
+        "ano": 2008,
+        "director": "Guillermo Fernández Groizard",
+        "genero": "Thriller",
+        "dirección": "Ctra. N-232, Agoncillo",
+        "img": "proyecto-dos.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.314992791298539,
+          42.45603950082103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "pelicula": "Las cartas de Málex",
+        "ano": 2013,
+        "director": "Carlos Reyes Lima",
+        "genero": "Suspense",
+        "dirección": "La Santa",
+        "img": "las-cartas-santa.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.351559999537707,
+          42.21262715380544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "pelicula": "Las cartas de Málex",
+        "ano": 2013,
+        "director": "Carlos Reyes Lima",
+        "genero": "Suspense",
+        "dirección": "Munilla",
+        "img": "cartas-biosfera.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.245478561318924,
+          42.22362514926315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "pelicula": "Un amor",
+        "ano": 2023,
+        "director": "Isabel Coixet",
+        "genero": "Drama",
+        "dirección": "8FFR+CR, 26190 Islallana",
+        "img": "un-amor-nalda.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5081819964231307,
+          42.32373899340723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "pelicula": "Un amor",
+        "ano": 2023,
+        "director": "Isabel Coixet",
+        "genero": "Drama",
+        "dirección": "C. Arrabal 6, Nalda",
+        "img": "un-amor-tienda.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.486595743016684,
+          42.333885753548394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "pelicula": "Un amor",
+        "ano": 2023,
+        "director": "Isabel Coixet",
+        "genero": "Drama",
+        "dirección": "Cam. Asfaltado de Nalda a Viguera",
+        "img": "un-amor-vecinos.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5081044326224613,
+          42.32305435631823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "pelicula": "Un amor",
+        "ano": 2023,
+        "director": "Isabel Coixet",
+        "genero": "Drama",
+        "dirección": "Nalda",
+        "img": "un-amor-islallana-pueblo.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5153724461225098,
+          42.324076477335815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "pelicula": "Un amor",
+        "ano": 2023,
+        "director": "Isabel Coixet",
+        "genero": "Drama",
+        "dirección": "Convento Franciscano de San Antonio",
+        "img": "un-amor-monasterio-nalda.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4941955404647995,
+          42.331263215643894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "pelicula": "Un amor",
+        "ano": 2023,
+        "director": "Isabel Coixet",
+        "genero": "Drama",
+        "dirección": "Nalda",
+        "img": "un-amor-crus-de-pena.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.504770782394107,
+          42.321606665384785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "pelicula": "La mujer de un juez",
+        "ano": 1984,
+        "director": "Francisco Lara Polop",
+        "genero": "Drama",
+        "dirección": "Logroño",
+        "img": "la.mujer-del-juez-calles.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4385379998124135,
+          42.46126991849982
+        ]
+      }
+    }
+  ]
+}
