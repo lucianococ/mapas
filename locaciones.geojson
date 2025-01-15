@@ -10,10 +10,12 @@
         "director": "Víctor Erice",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "cometario": "La casa 'La gaviota' y la alameda que conduce de Ezcaray a Valgañón son dos protagonistas más de una de las obras imprescindibles de Víctor Erice. Agustín Arenas es el enigmático padre de Estrella, la hija que va creciendo haciéndose preguntas y comprendiendo entre la admiración y el secretismo las razones del carácter del personaje que encarna Omero Antonutti.",
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "reparto": "Omero Antonutti, Sonsoles Aranguren, Iciar Bollain, Lola Cardona, Rafaela Aparicio, Aurore Clément, Maria Caro, Francisco Merino,José Vivó, Germaine Montero, José García García Morilla, María Massip, José Luis Fernández 'Pirri', Chus Lampreave, Jesús Nieto",
         "locacion": "La Alborada",
         "dire": "LR -111 km 10, Ezcaray",
-        "img": "sur-arboleda.jpg"
+        "img": "sur-arboleda.png"
       },
       "geometry": {
         "type": "Point",
@@ -32,10 +34,12 @@
         "director": "Víctor Erice",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "cometario": "La casa 'La gaviota' y la alameda que conduce de Ezcaray a Valgañón son dos protagonistas más de una de las obras imprescindibles de Víctor Erice. Agustín Arenas es el enigmático padre de Estrella, la hija que va creciendo haciéndose preguntas y comprendiendo entre la admiración y el secretismo las razones del carácter del personaje que encarna Omero Antonutti.",
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "reparto": "Omero Antonutti, Sonsoles Aranguren, Iciar Bollain, Lola Cardona, Rafaela Aparicio, Aurore Clément, Maria Caro, Francisco Merino,José Vivó, Germaine Montero, José García García Morilla, María Massip, José Luis Fernández 'Pirri', Chus Lampreave, Jesús Nieto",
         "locacion": "Casa de la gaviota",
         "dire": "Tr.ª Padre José García, 42, Ezcaray",
-        "img": "sur-casa.jpg"
+        "img": "sur-casa.png"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +58,9 @@
         "director": "Víctor Erice",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "cometario": "La casa 'La gaviota' y la alameda que conduce de Ezcaray a Valgañón son dos protagonistas más de una de las obras imprescindibles de Víctor Erice. Agustín Arenas es el enigmático padre de Estrella, la hija que va creciendo haciéndose preguntas y comprendiendo entre la admiración y el secretismo las razones del carácter del personaje que encarna Omero Antonutti.",
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "reparto": "Omero Antonutti, Sonsoles Aranguren, Iciar Bollain, Lola Cardona, Rafaela Aparicio, Aurore Clément, Maria Caro, Francisco Merino,José Vivó, Germaine Montero, José García García Morilla, María Massip, José Luis Fernández 'Pirri', Chus Lampreave, Jesús Nieto",
         "locacion": "Gran Hotel",
         "dire": "Vara de Rey 5, Logroño",
         "img": "sur-hotel.jpg"
@@ -76,10 +82,12 @@
         "director": "Víctor Erice",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/el_sur-703148256-large.jpg",
+        "cometario": "La casa 'La gaviota' y la alameda que conduce de Ezcaray a Valgañón son dos protagonistas más de una de las obras imprescindibles de Víctor Erice. Agustín Arenas es el enigmático padre de Estrella, la hija que va creciendo haciéndose preguntas y comprendiendo entre la admiración y el secretismo las razones del carácter del personaje que encarna Omero Antonutti.",
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
+        "reparto": "Omero Antonutti, Sonsoles Aranguren, Iciar Bollain, Lola Cardona, Rafaela Aparicio, Aurore Clément, Maria Caro, Francisco Merino,José Vivó, Germaine Montero, José García García Morilla, María Massip, José Luis Fernández 'Pirri', Chus Lampreave, Jesús Nieto",
         "locacion": "Edificio Benficencia",
         "dire": "C. Marqués de Murrieta, 76, Logroño",
-        "img": "sur-bene.jpg"
+        "img": "sur-bene.png"
       },
       "geometry": {
         "type": "Point",
@@ -98,10 +106,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Calle Carnicerías",
         "dire": "Calle Carnicerias",
-        "img": "calle-mayor-carniceria.jpg"
+        "img": "calle-mayor-carniceria.png"
       },
       "geometry": {
         "type": "Point",
@@ -120,10 +130,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Pl. del Mercado",
         "dire": "Plaza del Mercado, Logroño",
-        "img": "calle-mayor-mercado.jpg"
+        "img": "calle-mayor-mercado.png"
       },
       "geometry": {
         "type": "Point",
@@ -142,10 +154,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Calle Portales",
         "dire": "Plaza del Mercado, Logroño",
-        "img": "calle-mayor-portales.jpg"
+        "img": "calle-mayor-portales.png"
       },
       "geometry": {
         "type": "Point",
@@ -164,10 +178,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Café Moderno",
         "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "calle-mayor-moderno.jpg"
+        "img": "calle-mayor-moderno.png"
       },
       "geometry": {
         "type": "Point",
@@ -186,10 +202,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Circulo Logroñés",
         "dire": "C. Duquesa de la Victoria, 10, Bajo, Logroño",
-        "img": "calle-mayor-salon-circulo.jpg"
+        "img": "calle-mayor-salon-circulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -208,10 +226,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Pl. San Bernabé",
         "dire": "Plaza San Bernabé",
-        "img": "calle-mayer-sb.jpg"
+        "img": "calle-mayer-sb.png"
       },
       "geometry": {
         "type": "Point",
@@ -230,10 +250,12 @@
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/calle_mayor-799512303-large.jpg",
+        "cometario": "Probablemente la película más icónica de las rodadas en Logroño. Obra maestra absoluta de Juan Antonio Bardem, el corazón de la capital riojana sirve como marco para la amarga historia de una mujer soltera (inconmensurable Betsy Blair) que se convierte en el objeto de una broma cruel por un grupo de amigos que vapulean sus sentimientos.",
         "sinopsis": "Los habitantes de una pequeña ciudad provinciana viven atrapados en sus rancias tradiciones y costumbres. En ese opresivo ambiente, Isabel, una mujer soltera de 35 años, se siente fracasada por no haberse casado. Juan y su grupo de amigos, que combaten el aburrimiento imaginando bromas pesadas, hacen creer a Isabel que Juan está enamorado de ella y que le va a pedir que se case con él. (FILMAFFINITY)",
+        "reparto": "Betsy Blair, José Suárez, Yves Massard, Luis Peña, Dora Doll, Alfonso Godá, Manuel Alexandre, José Calvo, Matilde Muñoz Sampedro, René Blancard, María Gámez",
         "locacion": "Glorieta del Doctor Zubía",
         "dire": "C. de Juan XXIII, 3, Logroño",
-        "img": "calle-mayor-circulo.jpg"
+        "img": "calle-mayor-circulo.png"
       },
       "geometry": {
         "type": "Point",
@@ -252,7 +274,9 @@
         "director": "Federico Luppi",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "cometario": "El mítico actor argentino Federico Luppi eligió Logroño, Nájera y Fuenmayor para ubicar la que fue su única obra como director. En su decisión tuvo seguramente mucho que ver su matrimonio con la riojana Susana Hornos, que también ejerce como actriz en esta historia que tiene como telón de fondo el fallido intento de golpe militar del 23F.",
         "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "reparto": "Alberto Jiménez, Ana Fernández, Cobo, Fabián Vena, Ginés García Millán, Susana Hornos, Jordi Dauder, Pilar Rodríguez, Lucía Zorzano , Federico Luppi ",
         "locacion": "Puente de Hierro",
         "dire": "Tr.ª Cabo Noval, 1, Logroño",
         "img": "pasos-puente.jpg"
@@ -274,7 +298,9 @@
         "director": "Federico Luppi",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "cometario": "El mítico actor argentino Federico Luppi eligió Logroño, Nájera y Fuenmayor para ubicar la que fue su única obra como director. En su decisión tuvo seguramente mucho que ver su matrimonio con la riojana Susana Hornos, que también ejerce como actriz en esta historia que tiene como telón de fondo el fallido intento de golpe militar del 23F.",
         "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "reparto": "Alberto Jiménez, Ana Fernández, Cobo, Fabián Vena, Ginés García Millán, Susana Hornos, Jordi Dauder, Pilar Rodríguez, Lucía Zorzano , Federico Luppi ",
         "locacion": "Café Moderno",
         "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
         "img": "pasos-modenro.jpg"
@@ -296,7 +322,9 @@
         "director": "Federico Luppi",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "cometario": "El mítico actor argentino Federico Luppi eligió Logroño, Nájera y Fuenmayor para ubicar la que fue su única obra como director. En su decisión tuvo seguramente mucho que ver su matrimonio con la riojana Susana Hornos, que también ejerce como actriz en esta historia que tiene como telón de fondo el fallido intento de golpe militar del 23F.",
         "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "reparto": "Alberto Jiménez, Ana Fernández, Cobo, Fabián Vena, Ginés García Millán, Susana Hornos, Jordi Dauder, Pilar Rodríguez, Lucía Zorzano , Federico Luppi ",
         "locacion": "Calle Laurel",
         "dire": "Tr.ª de Laurel, 1, Logroño",
         "img": "pasos-laurel.jpg"
@@ -318,7 +346,9 @@
         "director": "Federico Luppi",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/pasos-667988213-large.jpg",
+        "cometario": "El mítico actor argentino Federico Luppi eligió Logroño, Nájera y Fuenmayor para ubicar la que fue su única obra como director. En su decisión tuvo seguramente mucho que ver su matrimonio con la riojana Susana Hornos, que también ejerce como actriz en esta historia que tiene como telón de fondo el fallido intento de golpe militar del 23F.",
         "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
+        "reparto": "Alberto Jiménez, Ana Fernández, Cobo, Fabián Vena, Ginés García Millán, Susana Hornos, Jordi Dauder, Pilar Rodríguez, Lucía Zorzano , Federico Luppi ",
         "locacion": "Pl. San Bartolomé",
         "dire": "C. San Bartolomé, Logroño",
         "img": "pasos-bartolome.jpg"
@@ -340,10 +370,12 @@
         "director": "Emilio Martínez-Lázaro",
         "genero": "Thriller",
         "afiche": "https://pics.filmaffinity.com/la_voz_de_su_amo-591530204-large.jpg",
+        "cometario": "Con el terrorismo de ETA en los años 80 como pretexto narrativo, Emilio Mártinez-Lázaro se adentra en el campo del cine negro. Un ejercicio de género resuelto con solvencia y que encuadra una de sus escenas en el monasterio de Valvanera. Imanol Arias, Silvia Abascal y Eduard Fernández ponen rostro a un thriller con mucho oficio. ",
         "sinopsis": "Bilbao, año 1980. En un ambiente dominado por la corrupción y el terrorismo, Charli, un treintañero taciturno, trabaja como chófer y hombre de confianza del señor Oliveira, un empresario de origen portugués que se dedica a negocios poco claros. Alarmado por una serie de amenazas y atentados, Oliveira decide confiar a Charli la protección de su hija Marta. A partir de ese momento, todo se complica: surge inesperadamente el amor, la violencia genera más violencia y, por si fuera poco, los amigos no son lo que parecen. (FILMAFFINITY)",
+        "reparto": "Imanol Arias, Joaquim de Almeida, Silvia Abascal",
         "locacion": "Monasterio de Valvanera",
         "dire": "LR-435, 26322, La Rioja",
-        "img": "la-voz-del-amo.jpg"
+        "img": "la-voz-del-amo.png"
       },
       "geometry": {
         "type": "Point",
@@ -362,10 +394,12 @@
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
         "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "cometario": "Logroño, 1959. Fabianito, un chico de catorce años, asiste a los preparativos del velatorio de su bisabuelo. Mientras la familia espera la llegada del alcalde, Fabián descubre el amor. Con guión de Bernardo Sánchez y David Trueba a partir de la obra de Rafael Azcona, la película es una de las destacadas de García Sánchez y en la que más lucen escenarios históricos de la capital riojana.",
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "reparto": "Carlos Iglesias, Silvia Marso, Alex Angulo",
         "locacion": "Puente de Piedra",
         "dire": "Ctra. Mendavía, 2, Logroño",
-        "img": "muertos-puente.jpg"
+        "img": "muertos-puente.png"
       },
       "geometry": {
         "type": "Point",
@@ -384,10 +418,12 @@
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
         "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "cometario": "Logroño, 1959. Fabianito, un chico de catorce años, asiste a los preparativos del velatorio de su bisabuelo. Mientras la familia espera la llegada del alcalde, Fabián descubre el amor. Con guión de Bernardo Sánchez y David Trueba a partir de la obra de Rafael Azcona, la película es una de las destacadas de García Sánchez y en la que más lucen escenarios históricos de la capital riojana.",
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "reparto": "Carlos Iglesias, Silvia Marso, Alex Angulo",
         "locacion": "Cementerio de Logroño",
         "dire": "Ctra. Navarra, 0,Logroño",
-        "img": "muertos-cementerio.jpg"
+        "img": "muertos-cementerio.png"
       },
       "geometry": {
         "type": "Point",
@@ -406,10 +442,12 @@
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
         "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "cometario": "Logroño, 1959. Fabianito, un chico de catorce años, asiste a los preparativos del velatorio de su bisabuelo. Mientras la familia espera la llegada del alcalde, Fabián descubre el amor. Con guión de Bernardo Sánchez y David Trueba a partir de la obra de Rafael Azcona, la película es una de las destacadas de García Sánchez y en la que más lucen escenarios históricos de la capital riojana.",
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "reparto": "Carlos Iglesias, Silvia Marso, Alex Angulo",
         "locacion": "Café Moderno",
         "dire": "C. Francisco Martínez Zaporta, 7,  Logroño, ",
-        "img": "muertos-la-rioja.jpg"
+        "img": "muertos-la-rioja.png"
       },
       "geometry": {
         "type": "Point",
@@ -428,10 +466,12 @@
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
         "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "cometario": "Logroño, 1959. Fabianito, un chico de catorce años, asiste a los preparativos del velatorio de su bisabuelo. Mientras la familia espera la llegada del alcalde, Fabián descubre el amor. Con guión de Bernardo Sánchez y David Trueba a partir de la obra de Rafael Azcona, la película es una de las destacadas de García Sánchez y en la que más lucen escenarios históricos de la capital riojana.",
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "reparto": "Carlos Iglesias, Silvia Marso, Alex Angulo",
         "locacion": "C. Calvo Sotelo 8",
         "dire": "C. Calvo Sotelo 8, Logroño",
-        "img": "muertos-calvo.jpg"
+        "img": "muertos-calvo.png"
       },
       "geometry": {
         "type": "Point",
@@ -450,10 +490,12 @@
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
         "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "cometario": "Logroño, 1959. Fabianito, un chico de catorce años, asiste a los preparativos del velatorio de su bisabuelo. Mientras la familia espera la llegada del alcalde, Fabián descubre el amor. Con guión de Bernardo Sánchez y David Trueba a partir de la obra de Rafael Azcona, la película es una de las destacadas de García Sánchez y en la que más lucen escenarios históricos de la capital riojana.",
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "reparto": "Carlos Iglesias, Silvia Marso, Alex Angulo",
         "locacion": "Pl. del Espolón",
         "dire": "Paseo del Espolón",
-        "img": "muertos-espartero.jpg"
+        "img": "muertos-espartero.png"
       },
       "geometry": {
         "type": "Point",
@@ -472,10 +514,12 @@
         "director": "José Luis García Sánchez",
         "genero": "Comedia",
         "afiche": "https://pics.filmaffinity.com/los_muertos_no_se_tocan_nene-919619555-large.jpg",
+        "cometario": "Logroño, 1959. Fabianito, un chico de catorce años, asiste a los preparativos del velatorio de su bisabuelo. Mientras la familia espera la llegada del alcalde, Fabián descubre el amor. Con guión de Bernardo Sánchez y David Trueba a partir de la obra de Rafael Azcona, la película es una de las destacadas de García Sánchez y en la que más lucen escenarios históricos de la capital riojana.",
         "sinopsis": "Logroño, 1959. Fabianito, un chico de catorce años, presencia sorprendido los preparativos del velatorio de su bisabuelo, un ilustre ciudadano local. Mientras la familia espera impaciente la llegada del alcalde, Fabián descubre el amor. Los acontecimientos y las visitas se suceden de forma tan incontrolable que llegan a provocar las situaciones más cómicas e imprevisibles. (FILMAFFINITY)",
+        "reparto": "Carlos Iglesias, Silvia Marso, Alex Angulo",
         "locacion": "Concatedral La  Redonda",
         "dire": "Pl. del Mercado",
-        "img": "muertos-redonda.jpg"
+        "img": "muertos-redonda.png"
       },
       "geometry": {
         "type": "Point",
@@ -494,10 +538,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "Franco Españolas",
         "dire": "C. Cabo Noval, 2, Logroño",
-        "img": "oro-fino-fran-esp.jpg"
+        "img": "oro-fino-fran-esp.png"
       },
       "geometry": {
         "type": "Point",
@@ -516,10 +562,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "La Hipica",
         "dire": "Av. de la Playa, 4,Logroño",
-        "img": "oro-fino-hipica.jpg"
+        "img": "oro-fino-hipica.png"
       },
       "geometry": {
         "type": "Point",
@@ -538,10 +586,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "Bodegas Paternina",
         "dire": "Av. Santo Domingo de la Calzada, 34, Haro",
-        "img": "oro-fino-paternina.jpg"
+        "img": "oro-fino-paternina.png"
       },
       "geometry": {
         "type": "Point",
@@ -560,10 +610,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "Bodegas Paternina",
         "dire": "C. Sol de la Cabra, 26220 Ollauri",
-        "img": "oro-fino-bodega.jpg"
+        "img": "oro-fino-bodega.png"
       },
       "geometry": {
         "type": "Point",
@@ -582,10 +634,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "El palacio de los Pobes",
         "dire": "Pl. de la Florida, 26230 Casalarreina",
-        "img": "oro-fino-casalarreina-2.jpg"
+        "img": "oro-fino-casalarreina-2.png"
       },
       "geometry": {
         "type": "Point",
@@ -604,10 +658,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "Castillo de Sajazarra",
         "dire": "C. Mayor, 8, 26212 Sajazarra",
-        "img": "oro-fino-sajazarra.jpg"
+        "img": "oro-fino-sajazarra.PNG"
       },
       "geometry": {
         "type": "Point",
@@ -626,10 +682,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "Castillo Torrefuerte",
         "dire": "Pl. Condal, 7, 26359 Torremontalbo",
-        "img": "oro-fino-torremontalbo.jpg"
+        "img": "oro-fino-torremontalbo.png"
       },
       "geometry": {
         "type": "Point",
@@ -648,10 +706,12 @@
         "director": "José Antonio de la Loma",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/oro_fino-263134016-large.jpg",
+        "cometario": "Además de presidir aquel histórico CD Logroñés que se codeó con la élite del fútbol español, el empresario Marcos Eguizábal produjo esta película de relumbrón que remite a Falcon Crest y otros referentes cinematográficos del lujo, el poder y las envidias entre familias de postín, en este caso bodeguero. Stewart Granger en primer plano, y al fondo, las maravillosas viñas de Ollauri.",
         "sinopsis": "La amistad entre dos familias europeas que se dedican a la viticultura se destruye debido al cruce de ciertas acusaciones falsas después de un robo. (FILMAFFINITY)",
+        "reparto": "Ted Wass, Jane Badler, Andrew Stevens, Ray Walston, Lloyd Bochner, Stewart Granger , Tia Carrere , Simón Andreu , Tony Isbert , Concha Cuetos , Robert A. Miller , Fernando Hilbeck , Noel Sansom , J. Minguell , Joy Blackburn , Elmer Modlin",
         "locacion": "Puente de Hierro",
         "dire": "Logroño",
-        "img": "oro-fino-puente.jpg"
+        "img": "oro-fino-puente.png"
       },
       "geometry": {
         "type": "Point",
@@ -670,10 +730,12 @@
         "director": "Emilio Estévez",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "cometario": "La comisaría de la Policía Local de Logroño, los adoquines de la calle Rua Vieja o los horizontes de Briñas son algunos de los escenarios de una de las películas más internacionales rodadas en La Rioja con acento inglés. Una colaboración de Martin Sheen y de su hijo Emilio Estévez que rinde tributo al Camino de Santiago y que se proyectó en medio mundo.",
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "reparto": " Martin Sheen, Emilio Estevez, Deborah Kara Unger",
         "locacion": "Calle RuaVieja",
         "dire": "C. Ruavieja, 47, Logroño",
-        "img": "the-way-ruavieja.jpg"
+        "img": "the-way-ruavieja.png"
       },
       "geometry": {
         "type": "Point",
@@ -692,10 +754,12 @@
         "director": "Emilio Estévez",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "cometario": "La comisaría de la Policía Local de Logroño, los adoquines de la calle Rua Vieja o los horizontes de Briñas son algunos de los escenarios de una de las películas más internacionales rodadas en La Rioja con acento inglés. Una colaboración de Martin Sheen y de su hijo Emilio Estévez que rinde tributo al Camino de Santiago y que se proyectó en medio mundo.",
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "reparto": " Martin Sheen, Emilio Estevez, Deborah Kara Unger",
         "locacion": "Comisaria Logroño",
         "dire": "C. Ruavieja, 47, Logroño",
-        "img": "the-way-comisaria.jpg"
+        "img": "the-way-comisaria.png"
       },
       "geometry": {
         "type": "Point",
@@ -714,10 +778,12 @@
         "director": "Emilio Estévez",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "cometario": "La comisaría de la Policía Local de Logroño, los adoquines de la calle Rua Vieja o los horizontes de Briñas son algunos de los escenarios de una de las películas más internacionales rodadas en La Rioja con acento inglés. Una colaboración de Martin Sheen y de su hijo Emilio Estévez que rinde tributo al Camino de Santiago y que se proyectó en medio mundo.",
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "reparto": " Martin Sheen, Emilio Estevez, Deborah Kara Unger",
         "locacion": "Briñas",
         "dire": "Pl. la Iglesia, 14, Briñas",
-        "img": "the-way-brinas-iglesia.jpg"
+        "img": "the-way-brinas-iglesia.png"
       },
       "geometry": {
         "type": "Point",
@@ -736,10 +802,12 @@
         "director": "Emilio Estévez",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/the_way-245296584-large.jpg",
+        "cometario": "La comisaría de la Policía Local de Logroño, los adoquines de la calle Rua Vieja o los horizontes de Briñas son algunos de los escenarios de una de las películas más internacionales rodadas en La Rioja con acento inglés. Una colaboración de Martin Sheen y de su hijo Emilio Estévez que rinde tributo al Camino de Santiago y que se proyectó en medio mundo.",
         "sinopsis": "Un día, a Tom Avery (Martín Sheen), un reputado oftalmólogo viudo, le comunican que su hijo Daniel, con el que nunca ha tenido buenas relaciones, ha muerto en los Pirineos durante un temporal. Tom, desolado, viaja a Francia y, cuando averigua que su hijo estaba haciendo el Camino de Santiago, decide terminar la ruta en su honor. (FILMAFFINITY)",
+        "reparto": " Martin Sheen, Emilio Estevez, Deborah Kara Unger",
         "locacion": "Briñas",
         "dire": "C. Solana, Briñas",
-        "img": "the-way-brinas.jpg"
+        "img": "the-way-brinas.png"
       },
       "geometry": {
         "type": "Point",
@@ -758,7 +826,9 @@
         "director": "Guillermo Fernández Groizard",
         "genero": "Thriller",
         "afiche": "https://pics.filmaffinity.com/proyecto_dos-628027005-large.jpg",
+        "cometario": "Adriá Collado, José María Pou y Lucía Jiménez son las principales bazas de una cinta centrada en los 'deja vu' que sufre desde niño y sin motivo aparente el protagonista, un científico especializado en la investigación de comportamientos genéticos. El aeropuerto de Agoncillo encuadra uno de los pasajes de una película trufada de aristas y sorpresas.",
         "sinopsis": "Diego (Collado), un científico que investiga los comportamientos genéticos y que mantiene una existencia feliz junto a su hijo y a su mujer (Jiménez), una traductora mitad inglesa mitad española. Aparte de problemas cotidianos como la hipoteca, lo único que perturba la tranquilidad de Diego son unos frecuentes \"déjà vues\" que sufre desde niño sin ningún motivo aparente. De la forma más casual descubrirá una noticia que le hará dudar de todo lo que le rodea e incluso de su propia identidad. (FILMAFFINITY)",
+        "reparto": "Lucía Jiménez, Adrià Collado",
         "locacion": "Aeropuerto de Logroño-Agoncillo",
         "dire": "Ctra. N-232, Agoncillo",
         "img": "proyecto-dos.jpg"
@@ -779,11 +849,13 @@
         "ano": 2013,
         "director": "Carlos Reyes Lima",
         "genero": "Suspense",
-        "afiche": "https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i",
+        "afiche": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnaMhi1bS4MoY3ACk6RbtMUzR-ZvfzoquQanxkX7l-Qm64ypeQ",
+        "cometario": "Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica en un trayecto que conduce desde la Islas Canarias hasta lo más hondo de La Rioja y que se recoge en una película prácticamente de culto. ",
         "sinopsis": "Es una historia sobre el presente y el recuerdo. Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica. Unas cartas y una bobina de película esconden un hecho trágico.",
+        "reparto": "Carlos Álvarez Novoa, Yanely Hernández, José Luis de Madariaga, Dimas González, Naira Gómez, Herminia Orihuela, Carmelo Alcántara",
         "locacion": "La Santa",
         "dire": "La Santa",
-        "img": "las-cartas-santa.jpg"
+        "img": "las-cartas-santa.png"
       },
       "geometry": {
         "type": "Point",
@@ -801,8 +873,10 @@
         "ano": 2013,
         "director": "Carlos Reyes Lima",
         "genero": "Suspense",
-        "afiche": "https://www.imdb.com/title/tt2775786/mediaviewer/rm3153397504/?ref_=tt_ov_i",
+        "afiche": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnaMhi1bS4MoY3ACk6RbtMUzR-ZvfzoquQanxkX7l-Qm64ypeQ",
+        "cometario": "Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica en un trayecto que conduce desde la Islas Canarias hasta lo más hondo de La Rioja y que se recoge en una película prácticamente de culto. ",
         "sinopsis": "Es una historia sobre el presente y el recuerdo. Dos jubilados, un cartero ciego y un militar retirado, estuvieron enamorados de la misma mujer: Málex. Años después la historia se repite en sus respectivos hijos y el amor que sienten hacia la misma chica. Unas cartas y una bobina de película esconden un hecho trágico.",
+        "reparto": "Carlos Álvarez Novoa, Yanely Hernández, José Luis de Madariaga, Dimas González, Naira Gómez, Herminia Orihuela, Carmelo Alcántara",
         "locacion": "Reserva de la Biósfera",
         "dire": "Munilla",
         "img": "cartas-biosfera.jpg"
@@ -824,10 +898,12 @@
         "director": "Isabel Coixet",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "cometario": "Nalda y las monumentales peñas de Islallana se reivindican como un personaje más en la adaptación que Coixet hace de la novela de Sara Mesa. La desasosegante historia que narra se ve subrayada por los escenarios elegidos en La Rioja para una película que cosechó una ristra de premios, entre ellos el de mejor interpretación de reparto para Hovik Keuchkerian en San Sebastián.",
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "reparto": "Laia Costa, Hovik Keuchkerian, Luis Bermejo",
         "locacion": "Casa de Nat",
         "dire": "8FFR+CR, 26190 Islallana",
-        "img": "un-amor-nalda.jpg"
+        "img": "un-amor-nalda.png"
       },
       "geometry": {
         "type": "Point",
@@ -846,10 +922,12 @@
         "director": "Isabel Coixet",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "cometario": "Nalda y las monumentales peñas de Islallana se reivindican como un personaje más en la adaptación que Coixet hace de la novela de Sara Mesa. La desasosegante historia que narra se ve subrayada por los escenarios elegidos en La Rioja para una película que cosechó una ristra de premios, entre ellos el de mejor interpretación de reparto para Hovik Keuchkerian en San Sebastián.",
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "reparto": "Laia Costa, Hovik Keuchkerian, Luis Bermejo",
         "locacion": "Tienda de alimentos",
         "dire": "C. Arrabal 6, Nalda",
-        "img": "un-amor-tienda.jpg"
+        "img": "un-amor-tienda.png"
       },
       "geometry": {
         "type": "Point",
@@ -868,10 +946,12 @@
         "director": "Isabel Coixet",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "cometario": "Nalda y las monumentales peñas de Islallana se reivindican como un personaje más en la adaptación que Coixet hace de la novela de Sara Mesa. La desasosegante historia que narra se ve subrayada por los escenarios elegidos en La Rioja para una película que cosechó una ristra de premios, entre ellos el de mejor interpretación de reparto para Hovik Keuchkerian en San Sebastián.",
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "reparto": "Laia Costa, Hovik Keuchkerian, Luis Bermejo",
         "locacion": "Casa de vecinos",
         "dire": "Cam. Asfaltado de Nalda a Viguera",
-        "img": "un-amor-vecinos.jpg"
+        "img": "un-amor-vecinos.png"
       },
       "geometry": {
         "type": "Point",
@@ -890,10 +970,12 @@
         "director": "Isabel Coixet",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "cometario": "Nalda y las monumentales peñas de Islallana se reivindican como un personaje más en la adaptación que Coixet hace de la novela de Sara Mesa. La desasosegante historia que narra se ve subrayada por los escenarios elegidos en La Rioja para una película que cosechó una ristra de premios, entre ellos el de mejor interpretación de reparto para Hovik Keuchkerian en San Sebastián.",
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "reparto": "Laia Costa, Hovik Keuchkerian, Luis Bermejo",
         "locacion": "Islallana",
         "dire": "Nalda",
-        "img": "un-amor-islallana-pueblo.jpg"
+        "img": "un-amor-islallana-pueblo.png"
       },
       "geometry": {
         "type": "Point",
@@ -912,10 +994,12 @@
         "director": "Isabel Coixet",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "cometario": "Nalda y las monumentales peñas de Islallana se reivindican como un personaje más en la adaptación que Coixet hace de la novela de Sara Mesa. La desasosegante historia que narra se ve subrayada por los escenarios elegidos en La Rioja para una película que cosechó una ristra de premios, entre ellos el de mejor interpretación de reparto para Hovik Keuchkerian en San Sebastián.",
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "reparto": "Laia Costa, Hovik Keuchkerian, Luis Bermejo",
         "locacion": "Covento en ruinas",
         "dire": "Convento Franciscano de San Antonio",
-        "img": "un-amor-monasterio-nalda.jpg"
+        "img": "un-amor-monasterio-nalda.png"
       },
       "geometry": {
         "type": "Point",
@@ -934,10 +1018,12 @@
         "director": "Isabel Coixet",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/un_amor-986488292-large.jpg",
+        "cometario": "Nalda y las monumentales peñas de Islallana se reivindican como un personaje más en la adaptación que Coixet hace de la novela de Sara Mesa. La desasosegante historia que narra se ve subrayada por los escenarios elegidos en La Rioja para una película que cosechó una ristra de premios, entre ellos el de mejor interpretación de reparto para Hovik Keuchkerian en San Sebastián.",
         "sinopsis": "Tras huir de su estresante vida en la ciudad, Nat, de 30 años, se refugia en el pequeño pueblo de La Escapa, en la España rural más profunda. En una casa de campo destartalada, con un perro callejero, la joven intentará reconducir su vida. Tras lidiar con la hostilidad de la persona que le alquila la casa y la desconfianza de los habitantes del pueblo, Nat se ve obligada a aceptar una inquietante proposición sexual que le hace su vecino Andreas. Este extraño y confuso encuentro dará lugar a una pasión obsesiva y desbordante que envolverá por completo a Nat y la hará cuestionarse el tipo de mujer que cree ser. (FILMAFFINITY)",
+        "reparto": "Laia Costa, Hovik Keuchkerian, Luis Bermejo",
         "locacion": "Cruz Peña",
         "dire": "Nalda",
-        "img": "un-amor-crus-de-pena.jpg"
+        "img": "un-amor-crus-de-pena.png"
       },
       "geometry": {
         "type": "Point",
@@ -956,10 +1042,12 @@
         "director": "Francisco Lara Polop",
         "genero": "Drama",
         "afiche": "https://pics.filmaffinity.com/la_mujer_del_juez-579667966-large.jpg",
+        "cometario": "Lara Polop, estajonavista del cine más comercial de los años 80 y 90, firma esta película en la que Paz es la esposa de un juez trasladado a Logroño para proseguir su carrera. Mientras él firma sentencias, ella se enamora de un joven que le evade de la rutina. Al frente del reparto, dos históricos de la época como Norma Duval y Héctor Alterio.",
         "sinopsis": "Paz es la esposa de Miguel, un juez. Ambos acaban de llegar a Logroño, a cuya capital ha sido trasladado éste último. Mientras el legislador trabaja en los juzgados, Paz se aburre en casa. Además, su matrimonio ha caído en una rutina absoluta. Por ello, la todavía joven mujer comienza una relación amorosa con Alfredo, un muchacho de dieciséis años. Marcial, el vecino de la destrozada pareja, conoce los hechos y decide chantajear a la adúltera, obligándola a exhibirse para que él pueda contemplarla con sus prismáticos, mientras pasea desnuda frente a la ventana. (FILMAFFINITY)",
+        "reparto": " Norma Duval, Héctor Alterio, Manuel Tejada",
         "locacion": "Logroño",
         "dire": "Logroño",
-        "img": "la.mujer-del-juez-calles.jpg"
+        "img": "la-mujer-del-juez-calles.png"
       },
       "geometry": {
         "type": "Point",
