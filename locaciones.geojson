@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": 1,
-        "pelicula": "El sur",
+        "pelicula": "El Sur",
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
@@ -14,7 +14,7 @@
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
         "reparto": "Omero Antonutti, Sonsoles Aranguren, Iciar Bollain, Lola Cardona, Rafaela Aparicio, Aurore Clément, Maria Caro, Francisco Merino,José Vivó, Germaine Montero, José García García Morilla, María Massip, José Luis Fernández 'Pirri', Chus Lampreave, Jesús Nieto",
         "locacion": "La Alborada",
-        "dire": "LR -111 km 10, Ezcaray",
+        "dire": "LR-111 km 10, Ezcaray",
         "img": "sur-arboleda.png"
       },
       "geometry": {
@@ -29,7 +29,7 @@
       "type": "Feature",
       "properties": {
         "id": 2,
-        "pelicula": "El sur",
+        "pelicula": "El Sur",
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
@@ -38,7 +38,7 @@
         "sinopsis": "“La Gaviota” es un caserón situado en las afueras de una ciudad del norte de España. En ella viven Agustín, médico y zahorí, su mujer, maestra represaliada por el franquismo, y su hija Estrella. La niña, desde su infancia, sospecha que su padre oculta un secreto. (FILMAFFINITY)",
         "reparto": "Omero Antonutti, Sonsoles Aranguren, Iciar Bollain, Lola Cardona, Rafaela Aparicio, Aurore Clément, Maria Caro, Francisco Merino,José Vivó, Germaine Montero, José García García Morilla, María Massip, José Luis Fernández 'Pirri', Chus Lampreave, Jesús Nieto",
         "locacion": "Casa de la gaviota",
-        "dire": "Tr.ª Padre José García, 42, Ezcaray",
+        "dire": "Padre José García, 42, Ezcaray",
         "img": "sur-casa.png"
       },
       "geometry": {
@@ -53,7 +53,7 @@
       "type": "Feature",
       "properties": {
         "id": 3,
-        "pelicula": "El sur",
+        "pelicula": "El Sur",
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
@@ -77,7 +77,7 @@
       "type": "Feature",
       "properties": {
         "id": 4,
-        "pelicula": "El sur",
+        "pelicula": "El Sur",
         "ano": 1983,
         "director": "Víctor Erice",
         "genero": "Drama",
@@ -101,7 +101,7 @@
       "type": "Feature",
       "properties": {
         "id": 5,
-        "pelicula": "Callle Mayor",
+        "pelicula": "Calle Mayor",
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "pelicula": "Callle Mayor",
+        "pelicula": "Calle Mayor",
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
@@ -197,7 +197,7 @@
       "type": "Feature",
       "properties": {
         "id": 9,
-        "pelicula": "Callle Mayor",
+        "pelicula": "Calle Mayor",
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
@@ -221,7 +221,7 @@
       "type": "Feature",
       "properties": {
         "id": 10,
-        "pelicula": "Callle Mayor",
+        "pelicula": "Calle Mayor",
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
@@ -245,7 +245,7 @@
       "type": "Feature",
       "properties": {
         "id": 11,
-        "pelicula": "Callle Mayor",
+        "pelicula": "Calle Mayor",
         "ano": 1956,
         "director": "Juan Antonio Bardem",
         "genero": "Drama",
@@ -278,7 +278,7 @@
         "sinopsis": "La acción se sitúa en una ciudad de provincias española, tras el intento fallido de golpe militar del 23 de febrero de 1981. Tres jóvenes matrimonios celebran el fracaso de los golpistas. Juntos han vivido la historia y un día soñaron con ser felices. Ahora cada uno debe elegir su destino. El país cambia y ellos ya no comparten sus sueños. Todo va a ser distinto a partir de entonces. Sus pasos los llevarán por diferentes caminos. (FILMAFFINITY)",
         "reparto": "Alberto Jiménez, Ana Fernández, Cobo, Fabián Vena, Ginés García Millán, Susana Hornos, Jordi Dauder, Pilar Rodríguez, Lucía Zorzano , Federico Luppi ",
         "locacion": "Puente de Hierro",
-        "dire": "Tr.ª Cabo Noval, 1, Logroño",
+        "dire": "Cabo Noval, 1, Logroño",
         "img": "pasos-puente.jpg"
       },
       "geometry": {
