@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Asamblea de Dios Ministerio de España",
-        "consefion": "Evangélicos",
+      "confesion": "Evangélicos",
+      "num": 1,
         "direccion": "Avenida Valvanera 13 Bajo",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -22,7 +23,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Asociación Musulmana de España",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle de Santa Lucía 14",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -39,7 +41,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Baha'i de Logroño",
-        "consefion": "Baha'is",
+        "confesion": "Baha'is",
+         "num":3,
         "direccion": "Calle Alcanadre 6 4ºC",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -56,7 +59,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Centro Budista Tibetano Ganden Chöeling Logroño",
-        "consefion": "Budistas",
+        "confesion": "Budistas", 
+        "num":4,
         "direccion": "Calle Marqués de Vallejo 6 1ªIzda.",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -73,7 +77,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Centro Islámico de Logroño Al Firdaus",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Estéban Manuel Villegas 16 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -90,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Centro Islámico Gulzar e Madina",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "María Teresa Gil de Gárate 51 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -107,7 +113,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunida Islámica de Hormilla Mezquita Altawba",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Cuatro Cantones 20",
         "municipio": "Hormilla",
         "comunidad": "La Rioja"
@@ -124,7 +131,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Budista del Interser (Sangha del Camino)",
-        "consefion": "Budistas",
+        "confesion": "Budistas", 
+        "num":4,
         "direccion": "Calle Villamediana 35 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -141,7 +149,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica Abu Bakr As-Siddiq de Igea (La Rioja)",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Solana 19",
         "municipio": "Igea",
         "comunidad": "La Rioja"
@@ -158,7 +167,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Albelda Salam",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Plaza Javier Cámara 10 Bajos",
         "municipio": "Albelda de Iregua",
         "comunidad": "La Rioja"
@@ -175,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Aldeanueva de Ebro",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Portal 16",
         "municipio": "Aldeanueva de Ebro",
         "comunidad": "La Rioja"
@@ -192,7 +203,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Alfaro",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Hospital Viejo 19",
         "municipio": "Alfaro",
         "comunidad": "La Rioja"
@@ -209,7 +221,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Arnedo, Mezquita Rahma",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle San Miguel 55",
         "municipio": "Arnedo",
         "comunidad": "La Rioja"
@@ -226,7 +239,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Autol, Mezquita de Autol",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Carretera de Arnedo 10",
         "municipio": "Autol",
         "comunidad": "La Rioja"
@@ -243,7 +257,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Calahorra",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Morcillón 10",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -260,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Calahorra Mezquita Essalam",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Ramón Subirán 33 bajo",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -277,7 +293,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Casalarreina, Mezquita Attaubah",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Avenida La Rioja 38 Bajo",
         "municipio": "Casalarreina",
         "comunidad": "La Rioja"
@@ -294,7 +311,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Entrena Annor",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle de la Constitución 6 Bajo",
         "municipio": "Entrena",
         "comunidad": "La Rioja"
@@ -311,7 +329,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Haro",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle de Navarra 13",
         "municipio": "Haro",
         "comunidad": "La Rioja"
@@ -328,7 +347,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Jafria",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Padre Marín 15 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -345,7 +365,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de la Estrella (Logroño)",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Valderuga 19 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -362,7 +383,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de la Mezquita Manzanera de Logroño",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle de la Manzanera 14 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -379,7 +401,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Logroño - Gulzare Madina Las Gaunas",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Av de España 8 Entreplanta Izq.",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -396,7 +419,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Logroño Fezane Madina",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Beatos Mena y Navarrete 42",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -413,7 +437,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Logroño, Mezquita Al-Huda",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Beratúa 37 Bajo 1",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -430,7 +455,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Nájera Mezquita Al Rahman (CIA)",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Avenida de la Sierra 36",
         "municipio": "Nájera",
         "comunidad": "La Rioja"
@@ -447,7 +473,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Pradejón (La Rioja)",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle San Ponciano 6",
         "municipio": "Pradejón",
         "comunidad": "La Rioja"
@@ -464,7 +491,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Quel Mezquita Alijlass-CIQI-",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Avenida de Santa Cruz 4 Local",
         "municipio": "Quel",
         "comunidad": "La Rioja"
@@ -481,7 +509,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Rincón de Soto",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Cascajuelo 13",
         "municipio": "Rincón de Soto",
         "comunidad": "La Rioja"
@@ -498,7 +527,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica de Santo Domingo de la Calzada ",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Avenida Juan Carlos 64 Bajo",
         "municipio": "Santo Domingo de la Calzada",
         "comunidad": "La Rioja"
@@ -515,7 +545,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica Mezquita Minhaj-Ul-Quran",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Manzanera 14 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -532,7 +563,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Islámica Villar de Arnedo Mezquita el Mohsinin (CIVAM)",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle los Ochoas 23 Bajo",
         "municipio": "El Villar de Arnedo",
         "comunidad": "La Rioja"
@@ -549,7 +581,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Musulmana de Alberite, Mezquita Annour - CMA",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Real 1 Local 5",
         "municipio": "Alberite",
         "comunidad": "La Rioja"
@@ -566,7 +599,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Comunidad Musulmana Subsahariana en Logroño",
-        "consefion": "Musulmanes",
+        "confesion": "Musulmanes", 
+        "num":2,
         "direccion": "Calle Somosierra 10 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -583,7 +617,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Asamblea de Dios Misión Logroño",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Madre de Dios 64",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -600,7 +635,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Bautista Calvario",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Vara del Rey 55 1º C",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -617,7 +653,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Bautista de Logroño",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Diego de Velázquez 3",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -634,7 +671,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Bíblica Jesús, Manantial de Vida",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Obispo Fidel García 10 Bajos 6",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -651,7 +689,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Comunidad Cristiana de Calahorra",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Avenida de Valvanera 25 local",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -668,7 +707,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Cristiana Adventista del Séptimo Día",
-        "consefion": "Adventistas",
+        "confesion": "Adventistas", 
+        "num":4,
         "direccion": "Carretera Logroño (Junto a Torretas-Calahorra)",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -685,7 +725,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Cristiana Adventista del Séptimo Día",
-        "consefion": "Adventistas",
+        "confesion": "Adventistas", 
+        "num":4,
         "direccion": "Calle Luis Barrón 56 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -702,7 +743,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Cristiana Interdenominacional",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Doctor Chavarría 14",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -719,7 +761,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Cristiana Plenitud de Vida",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Tenerías 8",
         "municipio": "Haro",
         "comunidad": "La Rioja"
@@ -736,7 +779,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Cuerpo de Cristo",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Avenida de Madrid 44",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -753,7 +797,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia de Jesucristo Salvador en La Rioja",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Mayor 72 4º D",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -770,7 +815,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia del Santo Daime de España (Centro Ecléctico de la Fuente de Luz Universal, Raimundo Ireneu Serra de España)",
-        "consefion": "Otras Religiones",
+        "confesion": "Otras Religiones", 
+        "num":5,
         "direccion": "Camino de Tejera 7",
         "municipio": "Corera",
         "comunidad": "La Rioja"
@@ -787,7 +833,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Comunidad Cristiana de Logroño Asambleas de Dios",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Río Isla 1",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -804,7 +851,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Filadelfia",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Avenida Santo Domingo 60",
         "municipio": "Haro",
         "comunidad": "La Rioja"
@@ -821,7 +869,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Filadelfia",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Los Baños 5",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -838,7 +887,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Filadelfia",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Calvo Sotelo 34 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -855,7 +905,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Filadelfia",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Avenida Príncipe de Asturias 59 Bajo",
         "municipio": "Anguciana",
         "comunidad": "La Rioja"
@@ -872,7 +923,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Filadelfia",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Ramada 23",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -889,7 +941,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Luz del Mundo Asambleas de Dios",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Beratua 36",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -906,7 +959,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Maslinul",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Somosierra 14",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -923,7 +977,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Rumana Emanuel",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Vélez de Guevara 43 bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -940,7 +995,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Evangélica Rumana Noua Speranta",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Lardero 37 Bajo 3",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -957,7 +1013,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Pentecostal Dios es Amor",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Poniente 8",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -974,7 +1031,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Pentecostal Unida en Europa",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Doctor Múgica 23 Bajo 4",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -991,7 +1049,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Pentecostal Unida en Europa",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Goya 5 Local Bajo 2",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -1008,7 +1067,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Iglesia Presbiteriana de la Santísima Trinidad de Ghana",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Nueva 3 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1025,7 +1085,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
-        "consefion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+        "confesion": "Iglesia de Jesucristo de los Santos de los Últimos Días",
+        "num":6,
         "direccion": "Calle Serradero 25",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1042,7 +1103,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Ministerio Internacional Vida Nueva- El Alfarero-",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Quintiliano 9 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1059,7 +1121,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Ministros de la Evidencia del Evangelio (Evidence of Gospel Ministries)",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle San José de Calasanz 11 Bajo 2",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1076,7 +1139,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Movimiento Misionero Mundial",
-        "consefion": "Evangélicos",
+        "confesion": "Evangélicos",
+        "num": 1,
         "direccion": "Calle Andalucía 2",
         "municipio": "Arnedo",
         "comunidad": "La Rioja"
@@ -1093,7 +1157,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Parroquia Ortodoxa Rumana Santísima Trinidad, de Logroño",
-        "consefion": "Ortodoxos",
+        "confesion": "Ortodoxos",
+         "num": 8,
         "direccion": "Paseo del Prior 6",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1110,7 +1175,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Parroquia Ortodoxa Rumana Santo Jerarca Espiridón El Milagroso de Calahorra",
-        "consefion": "Ortodoxos",
+        "confesion": "Ortodoxos", 
+        "num": 8,
         "direccion": "Calle del Río Oja 2 4ºB",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -1127,7 +1193,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Parroquia San Porfirio de Kafsokalvia de Logroño",
-        "consefion": "Ortodoxos",
+        "confesion": "Ortodoxos", 
+        "num": 8,
         "direccion": "Calle Padre Marín 31 Bajo 3 y 4",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1144,7 +1211,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Salón del Reino de los Testigos Cristianos de Jehová",
-        "consefion": "Testigos de Jehová",
+        "confesion": "Testigos de Jehová",  
+        "num":9,
         "direccion": "Calle Galicia 1 Bajo",
         "municipio": "Calahorra",
         "comunidad": "La Rioja"
@@ -1161,7 +1229,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Salón del Reino de los Testigos Cristianos de Jehová",
-        "consefion": "Testigos de Jehová",
+        "confesion": "Testigos de Jehová",
+        "num":9,
         "direccion": "Calle Beratúa 40 Bajo",
         "municipio": "Logroño",
         "comunidad": "La Rioja"
@@ -1178,7 +1247,8 @@
       "type": "Feature",
       "properties": {
         "nombre": "Salón del Reino de los Testigos Cristianos de Jehová",
-        "consefion": "Testigos de Jehová",
+        "confesion": "Testigos de Jehová", 
+        "num":9,
         "direccion": "Calle Nueva 4 (6) Bajo",
         "municipio": "Nájera",
         "comunidad": "La Rioja"
